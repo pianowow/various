@@ -1,0 +1,567 @@
+Name,Count,Rarity,Type,Cost,Attack,Health/Durability,Text,Flavor
+Abomination,2,Rare,Minion,5,4,4,<b>Taunt</b>. <b>Deathrattle:</b> Deal 2 damage to ALL characters.,Abominations enjoy Fresh Meat and long walks on the beach.
+Abusive Sergeant,2,Common,Minion,1,2,1,<b>Battlecry:</b> Give a minion +2 Attack this turn.,"ADD ME TO YOUR DECK, MAGGOT!"
+Acolyte of Pain,2,Common,Minion,3,1,3,"Whenever this minion takes damage, draw a card.","He trained when he was younger to be an acolyte of joy, but things didn’t work out like he thought they would."
+Al'Akir the Windlord,1,Legendary,Minion,8,3,5,"<b>Windfury, Charge, Divine Shield, Taunt</b>",He is the weakest of the four Elemental Lords.  And the other three don't let him forget it.
+Alarm-o-Bot,2,Rare,Minion,3,0,3,"At the start of your turn, swap this minion with a random one in your hand.",WARNING.  WARNING.  WARNING.
+Aldor Peacekeeper,2,Rare,Minion,3,3,3,<b>Battlecry:</b> Change an enemy minion's Attack to 1.,The Aldor hate two things: the Scryers and smooth jazz.
+Alexstrasza,1,Legendary,Minion,9,8,8,<b>Battlecry:</b> Set a hero's remaining Health to 15.,Alexstrasza the Life-Binder brings life and hope to everyone.  Except Deathwing.  And Malygos.  And Nekros.
+Amani Berserker,2,Common,Minion,2,2,3,<b>Enrage:</b> +3 Attack,"If an Amani berserker asks ""Joo lookin' at me?!"", the correct response is ""Nah, mon""."
+Ancestral Spirit,2,Rare,Spell,2,,,"Give a minion ""<b>Deathrattle:</b> Resummon this minion.""",It was just a flesh wound.
+Ancient Brewmaster,2,Common,Minion,4,5,4,<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.,Most pandaren say his brew tastes like yak.  But apparently that's a compliment.
+Ancient Mage,2,Rare,Minion,4,2,5,<b>Battlecry:</b> Give adjacent minions <b>Spell Damage +1</b>.,Sometimes he forgets and just wanders into someone else's game.
+Ancient Watcher,2,Rare,Minion,2,4,5,Can't Attack.,Why do its eyes seem to follow you as you walk by?
+Ancient of Lore,2,Epic,Minion,7,5,5,<b>Choose One -</b> Draw 2 cards; or Restore 5 Health.,"Go ahead, carve your initials in him."
+Ancient of War,2,Epic,Minion,7,5,5,<b>Choose One</b> - +5 Attack; or +5 Health and <b>Taunt</b>.,"Young Night Elves love to play ""Who can get the Ancient of War to Uproot?""  You lose if you get crushed to death."
+Angry Chicken,2,Rare,Minion,1,1,1,<b>Enrage:</b> +5 Attack.,There is no beast more frightening (or ridiculous) than a fully enraged chicken.
+Arathi Weaponsmith,2,Common,Minion,4,3,3,<b>Battlecry:</b> Equip a 2/2 weapon.,"50% off fist weapons, limited time only!"
+Arcane Golem,2,Rare,Minion,3,4,2,<b>Charge</b>. <b>Battlecry:</b> Give your opponent a Mana Crystal.,"Having Arcane golems at home really classes up the place, and as a bonus they are great conversation pieces."
+Archmage Antonidas,1,Legendary,Minion,7,5,7,"Whenever you cast a spell, add a 'Fireball' spell to your hand.","Antonidas was the Grand Magus of the Kirin Tor, and Jaina's mentor.  This was a big step up from being Grand Magus of Jelly Donuts."
+Argent Commander,2,Rare,Minion,6,4,2,"<b>Charge</b>, <b>Divine Shield</b>","The Argent Dawn stands vigilant against the Scourge, as well as people who cut in line at coffee shops."
+Argent Protector,2,Common,Minion,2,2,2,<b>Battlecry:</b> Give a friendly minion <b>Divine Shield</b>.,"""I'm not saying you can dodge fireballs.  I'm saying with this shield, you won't have to."""
+Argent Squire,2,Common,Minion,1,1,1,<b>Divine Shield</b>,"""I solemnly swear to uphold the Light, purge the world of darkness, and to eat only burritos."" - The Argent Dawn Oath"
+Armorsmith,2,Rare,Minion,2,1,4,"Whenever a friendly minion takes damage, gain 1 Armor.",She accepts guild funds for repairs!
+Auchenai Soulpriest,2,Rare,Minion,4,3,5,Your cards and powers that restore Health now deal damage instead.,"The Auchenai know the end is coming, but they're not sure when."
+Avenging Wrath,2,Epic,Spell,6,,,Deal $8 damage randomly split among all enemies.,Wham! Wham! Wham! Wham! Wham! Wham! Wham! Wham!
+Azure Drake,2,Rare,Minion,5,4,4,<b>Spell Damage +1</b>. <b>Battlecry:</b> Draw a card.,"They initially planned to be the Beryl or Cerulean drakes, but those felt a tad too pretentious."
+Bane of Doom,2,Epic,Spell,5,,,"Deal $2 damage to a character. If that kills it, summon a random Demon.","My advice to you is to avoid Doom, if possible."
+Baron Geddon,1,Legendary,Minion,7,7,5,"At the end of your turn, deal 2 damage to ALL other characters.","Baron Geddon was Ragnaros's foremost lieutenant, until he got FIRED."
+Battle Rage,2,Common,Spell,2,,,Draw a card for each damaged friendly character.,"""You won't like me when I'm angry."""
+Bestial Wrath,2,Epic,Spell,1,,,Give a friendly Beast +2 Attack and <b>Immune</b> this turn.,"The seething wrath is just beneath the surface.  Beneath that is wild abandon, followed by slight annoyance."
+Betrayal,2,Common,Spell,2,,,Force an enemy minion to deal its damage to the minions next to it.,"Everyone has a price. Gnomes, for example, can be persuaded by stuffed animals and small amounts of chocolate."
+Big Game Hunter,2,Epic,Minion,3,4,2,<b>Battlecry:</b> Destroy a minion with an Attack of 7 or more.,Mere devilsaurs no longer excite him.  Soon he'll be trying to catch Onyxia with only a dull Krol Blade.
+Bite,2,Rare,Spell,4,,,Give your hero +4 Attack this turn and 4 Armor.,Chew your food!
+Blade Flurry,2,Rare,Spell,2,,,Destroy your weapon and deal its damage to all enemies.,"""Look, it's not just about waving daggers around really fast.  It's a lot more complicated than that."" - Shan, Rogue Trainer"
+Blessed Champion,2,Rare,Spell,5,,,Double a minion's Attack.,This card causes double the trouble AND double the fun.
+Blessing of Wisdom,2,Common,Spell,1,,,"Choose a minion. Whenever it attacks, draw a card.",Apparently with wisdom comes the knowledge that you should probably be attacking every turn.
+Blizzard,2,Rare,Spell,6,,,Deal $2 damage to all enemy minions and <b>Freeze</b> them.,This spell can be very Entertaining.
+Blood Imp,2,Common,Minion,1,0,1,"<b>Stealth</b>. At the end of your turn, give another random friendly minion +1 Health.",Imps are content to hide and viciously taunt everyone nearby.
+Blood Knight,2,Epic,Minion,3,3,3,<b>Battlecry:</b> All minions lose <b>Divine Shield</b>. Gain +3/+3 for each Shield lost.,"The Blood Knights get their holy powers from the Sunwell, which you should NOT bathe in."
+Bloodmage Thalnos,1,Legendary,Minion,2,1,1,<b>Spell Damage +1</b>. <b>Deathrattle:</b> Draw a card.,He's in charge of the Annual Scarlet Monastery Blood Drive!
+Bloodsail Corsair,2,Rare,Minion,1,1,2,<b>Battlecry:</b> Remove 1 Durability from your opponent's weapon.,"Every pirate uses the same four digits to access Automated Gold Dispensers.  It's called the ""Pirate's Code""."
+Bloodsail Raider,2,Common,Minion,2,2,3,<b>Battlecry:</b> Gain Attack equal to the Attack of your weapon.,"""I only plunder on days that end in 'y'."""
+Brawl,2,Epic,Spell,5,,,Destroy all minions except one. <i>(chosen randomly)</i>,Do you know the first rule of Brawl Club?
+Cabal Shadow Priest,2,Epic,Minion,6,4,5,<b>Battlecry:</b> Take control of an enemy minion that has 2 or less Attack.,You never know who may be secretly working for the Cabal....
+Cairne Bloodhoof,1,Legendary,Minion,6,4,5,<b>Deathrattle:</b> Summon a 4/5 Baine Bloodhoof.,"Cairne was killed by Garrosh, so... don't put this guy in a Warrior deck.  It's pretty insensitive."
+Captain Greenskin,1,Legendary,Minion,5,5,4,<b>Battlecry:</b> Give your weapon +1/+1.,He was <i>this close</i> to piloting a massive juggernaut into Stormwind Harbor. If it weren't for those pesky kids!
+Cenarius,1,Legendary,Minion,9,5,8,<b>Choose One</b> - Give your other minions +2/+2; or Summon two 2/2 Treants with <b>Taunt</b>.,"Yes, he's a demigod. No, he doesn't need to wear a shirt."
+Circle of Healing,2,Common,Spell,0,,,Restore #4 Health to ALL minions.,It isn't really a circle.
+Cold Blood,2,Common,Spell,1,,,Give a minion +2 Attack. <b>Combo:</b> +4 Attack instead.,"""I'm cold blooded, check it and see!"""
+Coldlight Oracle,2,Rare,Minion,3,2,2,<b>Battlecry:</b> Each player draws 2 cards.,They can see the future.   In that future both players draw more cards.   Spoooky.
+Coldlight Seer,2,Rare,Minion,3,2,3,<b>Battlecry:</b> Give ALL other Murlocs +2 Health.,"The Coldlight murlocs reside in the darkest pits of the Abyssal Depths.  So no, there's no getting away from murlocs."
+Commanding Shout,2,Rare,Spell,2,,,Your minions can't be reduced below 1 Health this turn. Draw a card.,"""Shout! Shout! Let it all out!"" - Advice to warriors-in-training"
+Conceal,2,Common,Spell,1,,,Give your minions <b>Stealth</b> until your next turn.,Rogues conceal everything but their emotions.  You can't get 'em to shut up about feelings.
+Cone of Cold,2,Common,Spell,4,,,"<b>Freeze</b> a minion and the minions next to it, and deal $1 damage to them.",Magi of the Kirin Tor were casting Cubes of Cold for many years before Cones came into fashion some 90 years ago.
+Counterspell,2,Rare,Spell,3,,,"<b>Secret:</b> When your opponent casts a spell, <b>Counter</b> it.",What's the difference between a mage playing with Counterspell and a mage who isn't?  The mage who isn't is getting Pyroblasted in the face.
+Crazed Alchemist,2,Rare,Minion,2,2,2,<b>Battlecry:</b> Swap the Attack and Health of a minion.,"""You'll <i>love</i> my new recipe!"" he says... especially if you're not happy with your current number of limbs."
+Cruel Taskmaster,2,Common,Minion,2,2,2,<b>Battlecry:</b> Deal 1 damage to a minion and give it +2 Attack.,"""I'm going to need you to come in on Sunday."" - Cruel Taskmaster"
+Cult Master,2,Common,Minion,4,4,2,"Whenever one of your other minions dies, draw a card.","She may be an evil cult master, but she still calls her parents once a week."
+Dark Iron Dwarf,2,Common,Minion,4,4,4,<b>Battlecry:</b> Give a minion +2 Attack this turn.,"Guardians of Dark Iron Ore.  Perhaps the most annoying ore, given where you have to forge it."
+Deadly Shot,2,Common,Spell,3,,,Destroy a random enemy minion.,"Accuracy is not a highly valued trait among the mok'nathal.  Deadliness is near the top, though."
+Deathwing,1,Legendary,Minion,10,12,12,<b>Battlecry:</b> Destroy all other minions and discard your hand.,"Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated.  Daddy issues?"
+Defender of Argus,2,Rare,Minion,4,2,3,<b>Battlecry:</b> Give adjacent minions +1/+1 and <b>Taunt</b>.,You wouldn’t think that Argus would need this much defending.  But it does.
+Defias Ringleader,2,Common,Minion,2,2,2,<b>Combo:</b> Summon a 2/1 Defias Bandit.,"He stole the deed to town years ago, so technically the town <i>is</i> his. He just calls people Scrub to be mean."
+Demolisher,2,Rare,Minion,3,1,4,"At the start of your turn, deal 2 damage to a random enemy.","Laying siege isn't fun for anyone.  It's not even all that effective, now that everyone has a flying mount."
+Demonfire,2,Common,Spell,2,,,"Deal $2 damage to a minion. If it’s a friendly Demon, give it +2/+2 instead.",Demonfire is like regular fire except for IT NEVER STOPS BURNING HELLLPPP
+Dire Wolf Alpha,2,Common,Minion,2,2,2,Adjacent minions have +1 Attack.,"We are pretty excited about the upcoming release of Dire Wolf Beta, just repost this sign for a chance at a key."
+Divine Favor,2,Rare,Spell,3,,,Draw cards until you have as many in hand as your opponent.,"This is not just a favor, but a divine one, like helping someone move a couch with a fold out bed!"
+Doomguard,2,Rare,Minion,5,5,7,<b>Charge</b>. <b>Battlecry:</b> Discard two random cards.,Summoning a doomguard is risky. <i>Someone</i> is going to die.
+Doomhammer,2,Epic,Weapon,5,2,8,"<b>Windfury, Overload:</b> (2)",Orgrim Doomhammer gave this legendary weapon to Thrall.  His name is a total coincidence.
+Doomsayer,2,Epic,Minion,2,0,7,"At the start of your turn, destroy ALL minions.",He's almost been right so many times. He was <i>sure</i> it was coming during the Cataclysm.
+Dread Corsair,2,Common,Minion,4,3,3,<b>Taunt.</b> Costs (1) less per Attack of your weapon.,"""Yarrrr"" is a pirate word that means ""Greetings, milord."""
+Druid of the Claw,2,Common,Minion,5,4,4,<b>Choose One -</b> <b>Charge</b>; or +2 Health and <b>Taunt</b>.,Cat or Bear?  Cat or Bear?!  I just cannot CHOOSE!
+Dust Devil,2,Common,Minion,1,3,1,<b>Windfury</b>. <b>Overload:</b> (2),Westfall is full of dust devils. And buzzards. And crazed golems. And pirates. Why does anyone live here?
+Eaglehorn Bow,2,Rare,Weapon,3,3,2,"Whenever a friendly <b>Secret</b> is revealed, gain +1 Durability.",First Lesson: Put the pointy end in the other guy.
+Earth Elemental,2,Epic,Minion,5,7,8,<b>Taunt</b>. <b>Overload:</b> (3),Nothing beats rock.
+Earth Shock,2,Common,Spell,1,,,"<b>Silence</b> a minion, then deal $1 damage to it.","Earth Shock? Shouldn't it be ""Azeroth Shock""?"
+Earthen Ring Farseer,2,Common,Minion,3,3,3,<b>Battlecry:</b> Restore 3 Health.,"He can see really far, and he doesn't use a telescope like those filthy pirates."
+Edwin VanCleef,1,Legendary,Minion,3,2,2,<b>Combo:</b> Gain +2/+2 for each card played earlier this turn.,"He led the Stonemasons in the reconstruction of Stormwind, and when the nobles refused to pay, he founded the Defias Brotherhood to, well, <i>deconstruct</i> Stormwind."
+Emperor Cobra,2,Rare,Minion,3,2,3,Destroy any minion damaged by this minion.,"The Sholazar Basin is home to a lot of really horrible things. If you're going to visit, wear bug spray.  And plate armor."
+Equality,2,Rare,Spell,2,,,Change the Health of ALL minions to 1.,We are all special unique snowflakes... with 1 Health.
+Ethereal Arcanist,2,Rare,Minion,4,3,3,"If you control a <b>Secret</b> at the end of your turn, gain +2/+2.",The ethereals are wrapped in cloth to give form to their non-corporeal bodies. Also because it's nice and soft.
+Eviscerate,2,Common,Spell,2,,,Deal $2 damage. <b>Combo:</b> Deal $4 damage instead.,There is a high cost to Eviscerating your opponent:  It takes a long time to get blood stains out of leather armor.
+Explosive Shot,2,Rare,Spell,5,,,Deal $5 damage to a minion and $2 damage to adjacent ones.,"Pull the pin, count to 5, then shoot.  Then duck."
+Explosive Trap,2,Common,Spell,2,,,"<b>Secret:</b> When your hero is attacked, deal $2 damage to all enemies.",It traps your food AND cooks it for you!
+Eye for an Eye,2,Common,Spell,1,,,"<b>Secret:</b> When your hero takes damage, deal that much damage to the enemy hero.",Justice sometimes takes the form of a closed fist into a soft cheek.
+Faceless Manipulator,2,Epic,Minion,5,3,3,<b>Battlecry:</b> Choose a minion and become a copy of it.,"The Faceless Ones are servants of Yogg-Saron, and they feed on fear. Right now they are feeding on your fear of accidentally disenchanting all your good cards."
+Faerie Dragon,2,Common,Minion,2,3,2,Can't be targeted by spells or Hero Powers.,Adorable.  Immune to Magic.  Doesn't pee on the rug.  The perfect pet!
+Far Sight,2,Epic,Spell,3,,,Draw a card. That card costs (3) less.,"Drek'thar can't see, but he can <i>see</i>. You know what I mean? It's ok if you don't."
+Felguard,2,Rare,Minion,3,3,5,<b>Taunt</b>. <b>Battlecry:</b> Destroy one of your Mana Crystals.,"Yes, he'll fight for you.  BUT HE'S NOT GOING TO LIKE IT."
+Fen Creeper,2,Common,Minion,5,3,6,<b>Taunt</b>,"He used to be called Bog Beast, but it confused people because he wasn't an actual beast.   Boom, New Name!"
+Feral Spirit,2,Rare,Spell,3,,,Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (2),Spirit wolves are like regular wolves with pom-poms.
+Flame Imp,2,Common,Minion,1,3,2,<b>Battlecry:</b> Deal 3 damage to your hero.,Imps like being on fire.  They just do.
+Flare,2,Rare,Spell,2,,,All minions lose <b>Stealth</b>. Destroy all enemy <b>Secrets</b>. Draw a card.,"Not only does it reveal your enemies, but it's also great for parties!"
+Flesheating Ghoul,2,Common,Minion,3,2,3,"Whenever a minion dies, gain +1 Attack.",'Flesheating' is an unfair name.  It's just that there's not really much else for him to eat.
+Force of Nature,2,Epic,Spell,6,,,Summon three 2/2 Treants with <b>Charge</b> that die at the end of the turn.,"""I think I'll just nap under these trees. Wait... AAAAAHHH!"" - Blinkfizz, the Unfortunate Gnome"
+Forked Lightning,2,Common,Spell,1,,,Deal $2 damage to 2 random enemy minions. <b>Overload:</b> (2),"If you combine it with Spooned Lightning and Knived Lightning, you have the full dining set."
+Freezing Trap,2,Common,Spell,2,,,"<b>Secret:</b> When an enemy minion attacks, return it to its owner's hand and it costs (2) more.","""Dang, that's cold."" - appropriate response to Freezing Trap, or a mean joke."
+Frost Elemental,2,Common,Minion,6,5,5,<b>Battlecry:</b> <b>Freeze</b> a character.,When a Water elemental and an Ice elemental love each other VERY much...
+Frothing Berserker,2,Rare,Minion,3,2,4,"Whenever a minion takes damage, gain +1 Attack.",He used to work as an accountant before he tried his hand at Berserkering.
+Gadgetzan Auctioneer,2,Rare,Minion,6,4,4,"Whenever you cast a spell, draw a card.","He used to run the black market auction house, but there was just too much violence and he had to move."
+Gladiator's Longbow,2,Epic,Weapon,7,5,2,Your hero is <b>Immune</b> while attacking.,The longbow allows shots to be fired from farther away and is useful for firing on particularly odorous targets.
+Gorehowl,2,Epic,Weapon,7,7,1,Attacking a minion costs 1 Attack instead of 1 Durability.,Grommash Hellscream's famous axe.  Somehow this ended up in Prince Malchezaar's possession.  Quite the mystery!
+Grommash Hellscream,1,Legendary,Minion,8,4,9,<b>Charge</b> <b>Enrage:</b> +6 Attack,"Grommash drank the tainted blood of Mannoroth, dooming the orcs to green skin and red eyes!  Maybe not his best decision."
+Gruul,1,Legendary,Minion,8,7,7,"At the end of each turn, gain +1/+1 .","He's Gruul ""the Dragonkiller"".  He just wanted to cuddle them… he never meant to…"
+Harrison Jones,1,Legendary,Minion,5,5,4,<b>Battlecry:</b> Destroy your opponent's weapon and draw cards equal to its Durability.,“That belongs in the Hall of Explorers!”
+Harvest Golem,2,Common,Minion,3,2,3,<b>Deathrattle:</b> Summon a 2/1 Damaged Golem.,"""Overheat threshold exceeded. System failure. Wheat clog in port two. Shutting down."""
+Headcrack,2,Rare,Spell,3,,,Deal $2 damage to the enemy hero. <b>Combo:</b> Return this to your hand next turn.,"When all else fails, nothing beats a swift whack upside the head."
+Hogger,1,Legendary,Minion,6,4,4,"At the end of your turn, summon a 2/2 Gnoll with <b>Taunt</b>.","Hogger is super powerful. If you kill him, it's because he <i>let</i> you."
+Holy Fire,2,Rare,Spell,6,,,Deal $5 damage. Restore #5 Health to your hero.,Often followed by Holy Smokes!
+Holy Wrath,2,Rare,Spell,5,,,Draw a card and deal damage equal to its cost.,C'mon Molten Giant!!
+Hungry Crab,2,Epic,Minion,1,1,2,<b>Battlecry:</b> Destroy a Murloc and gain +2/+2.,Murloc.  It's what's for dinner.
+Ice Barrier,2,Common,Spell,3,,,"<b>Secret:</b> When your hero is attacked, gain 8 Armor.",This is Rank 1.  Rank 2 is Chocolate Milk Barrier.
+Ice Block,2,Epic,Spell,3,,,"<b>Secret:</b> When your hero takes fatal damage, prevent it and become <b>Immune</b> this turn.","Ice is nice, and will suffice!"
+Ice Lance,2,Common,Spell,1,,,"<b>Freeze</b> a character. If it was already <b>Frozen</b>, deal $4 damage instead.","The trick is not to break the lance.  Otherwise, you have ""Ice Pieces.""  Ice Pieces aren't as effective."
+Illidan Stormrage,1,Legendary,Minion,6,7,5,"Whenever you play a card, summon a 2/1 Flame of Azzinoth.","Illidan's brother, Malfurion, imprisoned him beneath Hyjal for 10,000 years.  Stormrages are not good at letting go of grudges."
+Imp Master,2,Rare,Minion,3,1,5,"At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp.",She would enjoy the job a lot more if she just could get the imps to QUIT BITING HER.
+Injured Blademaster,2,Rare,Minion,3,4,7,<b>Battlecry:</b> Deal 4 damage to HIMSELF.,"He claims it is an old war wound, but we think he just cut himself shaving."
+Inner Fire,2,Common,Spell,1,,,Change a minion's Attack to be equal to its Health.,Good idea: Buffing your minions.  Bad idea: Starting a conversation in the Barrens.
+Inner Rage,2,Common,Spell,0,,,Deal $1 damage to a minion and give it +2 Attack.,They're only smiling on the outside.
+Ironbeak Owl,2,Common,Minion,2,2,1,<b>Battlecry:</b> <b>Silence</b> a minion.,Their wings are silent but their screech is... whatever the opposite of silent is.
+Jungle Panther,2,Common,Minion,3,4,2,<b>Stealth</b>,"Stranglethorn is a beautiful place to visit, but you wouldn't want to live there."
+Keeper of the Grove,2,Rare,Minion,4,2,4,<b>Choose One</b> - Deal 2 damage; or <b>Silence</b> a minion.,These guys just show up and start Keeping your Groves without even asking.
+Kidnapper,2,Epic,Minion,6,5,3,<b>Combo:</b> Return a minion to its owner's hand.,He just wants people to see his vacation photos.
+King Krush,1,Legendary,Minion,9,8,8,<b>Charge</b>,The best defense against King Krush is to have someone you don’t like standing in front of you.
+King Mukla,1,Legendary,Minion,3,5,5,<b>Battlecry:</b> Give your opponent 2 Bananas.,"King Mukla wanders Jaguero Isle, searching for love."
+Kirin Tor Mage,2,Rare,Minion,3,4,3,<b>Battlecry:</b> The next <b>Secret</b> you play this turn costs (0).,"The Kirin Tor reside in the floating city of Dalaran.  How do you make a Dalaran float?  Two scoops of ice cream, one scoop of Dalaran."
+Knife Juggler,2,Rare,Minion,2,3,2,"After you summon a minion, deal 1 damage to a random enemy.",Ambitious Knife Jugglers sometimes graduate to Bomb Jugglers.    They never last long enough to make it onto a card though.
+Lava Burst,2,Rare,Spell,3,,,Deal $5 damage. <b>Overload:</b> (2),It's like an ocean of liquid magma in your mouth!
+Lay on Hands,2,Epic,Spell,8,,,Restore #8 Health. Draw 3 cards.,A grammatically awkward life saver.
+Leeroy Jenkins,1,Legendary,Minion,5,6,2,<b>Charge</b>. <b>Battlecry:</b> Summon two 1/1 Whelps for your opponent.,At least he has Angry Chicken.
+Leper Gnome,2,Common,Minion,1,2,1,<b>Deathrattle:</b> Deal 2 damage to the enemy hero.,"He really just wants to be your friend, but the constant rejection is starting to really get to him."
+Lightning Bolt,2,Common,Spell,1,,,Deal $3 damage. <b>Overload:</b> (1),Lightning Bolt! Lightning Bolt! Lightning Bolt!
+Lightning Storm,2,Rare,Spell,3,,,Deal $2-$3 damage to all enemy minions. <b>Overload:</b> (2),"An umbrella won't be effective, I'm afraid."
+Lightspawn,2,Common,Minion,4,0,5,This minion's Attack is always equal to its Health.,Spawn of the Light? Or Pawn of the Lights?
+Lightwarden,2,Rare,Minion,1,1,2,"Whenever a character is healed, gain +2 Attack.",She’s smaller than her sisters Mediumwarden and Heavywarden.
+Lightwell,2,Rare,Minion,2,0,5,"At the start of your turn, restore 3 Health to a damaged friendly character.","It isn't clear if people ignore the Lightwell, or if it is just invisible."
+Loot Hoarder,2,Common,Minion,2,2,1,<b>Deathrattle:</b> Draw a card.,Always roll need.
+Lord Jaraxxus,1,Legendary,Minion,9,3,15,<b>Battlecry:</b> Destroy your hero and replace it with Lord Jaraxxus.,"""TRIFLING GNOME! YOUR ARROGANCE WILL BE YOUR UNDOING!!!!"""
+Lorewalker Cho,1,Legendary,Minion,2,0,4,"Whenever a player casts a spell, put a copy into the other player’s hand.","Lorewalker Cho archives and shares tales from the land of Pandaria, but his favorite story is the one where Joey and Phoebe go on a road trip."
+Mad Bomber,2,Common,Minion,2,3,2,<b>Battlecry:</b> Deal 3 damage randomly split between all other characters.,"He's not really all that crazy, he is just not as careful with explosives as he should be."
+Malygos,1,Legendary,Minion,9,4,12,<b>Spell Damage +5</b>,Malygos hates it when mortals use magic.  He gets so mad!
+Mana Addict,2,Rare,Minion,2,1,3,"Whenever you cast a spell, gain +2 Attack this turn.","She’s trying to kick the habit, but still takes some mana whenever she has a stressful day."
+Mana Tide Totem,2,Rare,Minion,3,0,3,"At the end of your turn, draw a card.","It is said that some shaman can say ""Floatin' totem"" 10 times, fast."
+Mana Wraith,2,Rare,Minion,2,2,2,ALL minions cost (1) more.,"They come out at night to eat leftover mana crystals. ""Mmmmmm,"" they say."
+Mana Wyrm,2,Common,Minion,1,1,3,"Whenever you cast a spell, gain +1 Attack.","These wyrms feed on arcane energies, and while they are generally considered a nuisance rather than a real threat, you really shouldn't leave them alone with a bucket of mana."
+Mark of Nature,2,Common,Spell,3,,,<b>Choose One</b> - Give a minion +4 Attack; or +4 Health and <b>Taunt</b>.,"Druids call it the ""Mark of Nature.""  Everyone else calls it ""needing a bath."""
+Mass Dispel,2,Rare,Spell,4,,,<b>Silence</b> all enemy minions. Draw a card.,"It dispels buffs, powers, hopes, and dreams."
+Master Swordsmith,2,Rare,Minion,2,1,3,"At the end of your turn, give another random friendly minion +1 Attack.","He's currently trying to craft a ""flail-axe"", but all the other swordsmiths say it can't be done."
+Master of Disguise,2,Rare,Minion,4,4,4,<b>Battlecry:</b> Give a friendly minion <b>Stealth</b>.,"She's actually a male tauren.  People don't call him ""Master of Disguise"" for nothing."
+Millhouse Manastorm,1,Legendary,Minion,2,4,4,<b>Battlecry:</b> Enemy spells cost (0) next turn.,"""I'm gonna light you up, sweetcheeks!"""
+Mind Control Tech,2,Rare,Minion,3,3,3,"<b>Battlecry:</b> If your opponent has 4 or more minions, take control of one at random.","Mind Control technology is getting better, but that's not saying much."
+Mindgames,2,Epic,Spell,4,,,Put a copy of a random minion from your opponent's deck into the battlefield.,Sometimes it feels like this is all a game.
+Mirror Entity,2,Common,Spell,3,,,"<b>Secret:</b> When your opponent plays a minion, summon a copy of it.","""You go first."" - Krush'gor the Behemoth, to his pet boar."
+Misdirection,2,Rare,Spell,2,,,"<b>Secret:</b> When a character attacks your hero, instead he attacks another random character.",Sometimes it's as simple as putting on a fake mustache and pointing at someone else.
+Mogu'shan Warden,2,Common,Minion,4,1,7,<b>Taunt</b>,All these guys ever do is talk about the Thunder King.   BOOOORRRINNG!
+Molten Giant,2,Epic,Minion,20,8,8,Costs (1) less for each damage your hero has taken.,He gets terrible heartburn.  BECAUSE HE IS FULL OF LAVA.
+Mortal Strike,2,Rare,Spell,4,,,"Deal $4 damage. If you have 12 or less Health, deal $6 instead.","""If you only use one ability, use Mortal Strike."" - The Warrior Code, Line 6"
+Mountain Giant,2,Epic,Minion,12,8,8,Costs (1) less for each other card in your hand.,His mother said that he was just big boned.
+Murloc Tidecaller,2,Rare,Minion,1,1,2,"Whenever a Murloc is summoned, gain +1 Attack.",This guy gets crazy strong at family reunions.
+Murloc Warleader,2,Epic,Minion,3,3,3,ALL other Murlocs have +2/+1.,Do Murlocs ever get tired of making the same old sound?  Nope!  Mrglglrglglglglglglgl!
+Nat Pagle,1,Legendary,Minion,2,0,4,"At the start of your turn, you have a 50% chance to draw an extra card.","Nat Pagle, Azeroth's premier fisherman!  He invented the Auto-Angler 3000, the Extendo-Pole 3000, and the Lure-o-matic 2099 (still in testing)."
+Naturalize,2,Common,Spell,1,,,Destroy a minion. Your opponent draws 2 cards.,Another one bites the dust.
+Noble Sacrifice,2,Common,Spell,1,,,"<b>Secret:</b> When an enemy attacks, summon a 2/1 Defender as the new target.","We will always remember you, ""Defender!"""
+Nourish,2,Rare,Spell,5,,,<b>Choose One</b> - Gain 2 Mana Crystals; or Draw 3 cards.,"Druids take nourishment from many things: the power of nature, the songbird's chirp, a chocolate cake."
+Nozdormu,1,Legendary,Minion,9,8,8,Players only have 15 seconds to take their turns.,Time to write some flavor text.
+Onyxia,1,Legendary,Minion,9,8,8,<b>Battlecry:</b> Summon 1/1 Whelps until your side of the battlefield is full.,Onyxia long manipulated the Stormwind Court by disguising herself as Lady Katrana Prestor.   You would have thought that the giant wings and scales would have been a giveaway.
+Patient Assassin,2,Epic,Minion,2,1,1,<b>Stealth</b>. Destroy any minion damaged by this minion.,He’s not really that patient. It just takes a while for someone to walk by that he can actually reach.
+Perdition's Blade,2,Rare,Weapon,3,2,2,<b>Battlecry:</b> Deal 1 damage. <b>Combo:</b> Deal 2 instead.,Perdition's Blade is Ragnaros's back-up weapon while Sulfuras is in the shop.
+Pint-Sized Summoner,2,Rare,Minion,2,2,2,The first minion you play each turn costs (1) less.,She's quite jealous of the Gallon-Sized Summoner.
+Pit Lord,2,Epic,Minion,4,5,6,<b>Battlecry:</b> Deal 5 damage to your hero.,"Mannoroth, Magtheridon, and Brutallus may be dead, but it turns out there are a LOT of pit lords."
+Power Overwhelming,2,Common,Spell,1,,,"Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.",We cannot even describe how horrible the death is.  It's CRAZY bad!  Maybe worse than that.  Just don't do it.
+Power of the Wild,2,Common,Spell,2,,,<b>Choose One</b> - Give your minions +1/+1; or Summon a 3/2 Panther.,"Never look a panther in the eye.  Or is it 'Always look a panther in the eye'?  Well, it's one of those."
+Preparation,2,Epic,Spell,0,,,The next spell you cast this turn costs (3) less.,"""Be Prepared"" - Rogue Motto"
+Priestess of Elune,2,Common,Minion,6,5,4,<b>Battlecry:</b> Restore 4 Health to your hero.,"If she threatens to ""moon"" you, it's not what you think."
+Prophet Velen,1,Legendary,Minion,7,7,7,Double the damage and healing of your spells and Hero Power.,"He's been exiled from his home, and all his brothers turned evil, but otherwise he doesn't have a lot to complain about."
+Pyroblast,2,Epic,Spell,10,,,Deal $10 damage.,Take the time for an evil laugh after you draw this card.
+Questing Adventurer,2,Rare,Minion,3,2,2,"Whenever you play a card, gain +1/+1.","""Does anyone have some extra Boar Pelts?"""
+Raging Worgen,2,Common,Minion,3,3,3,<b>Enrage:</b> <b>Windfury</b> and +1 Attack,"If he's raging now, just wait until he gets nerfed."
+Ragnaros the Firelord,1,Legendary,Minion,8,8,8,"Can't Attack. At the end of your turn, deal 8 damage to a random enemy.","Ragnaros was summoned by the Dark Iron dwarves, who were eventually enslaved by the Firelord.  Summoning Ragnaros often doesn’t work out the way you want it to."
+Rampage,2,Common,Spell,2,,,Give a damaged minion +3/+3.,Minion get ANGRY.   Minion SMASH!
+Ravenholdt Assassin,2,Rare,Minion,7,7,5,<b>Stealth</b>,"Just mail him a package with a name and 10,000 gold.  He'll take care of the rest."
+Redemption,2,Common,Spell,1,,,"<b>Secret:</b> When one of your minions dies, return it to life with 1 Health.",I am not sure how you get demptioned the first time.  It’s a mystery!
+Repentance,2,Common,Spell,1,,,"<b>Secret:</b> When your opponent plays a minion, reduce its Health to 1.",Repentance often comes in the moment before obliteration. Curious.
+SI:7 Agent,2,Rare,Minion,3,3,3,<b>Combo:</b> Deal 2 damage.,"The agents of SI:7 are responsible for Stormwind's covert activities.  Their duties include espionage, assassination, and throwing surprise birthday parties for the royal family."
+Savagery,2,Rare,Spell,1,,,Deal damage equal to your hero's Attack to a minion.,"It is true that some druids are savage, but others still enjoy a quiet moment and a spot of tea."
+Savannah Highmane,2,Rare,Minion,6,6,5,<b>Deathrattle:</b> Summon two 2/2 Hyenas.,"In the jungle, the mighty jungle, the lion gets slowly consumed by hyenas."
+Scarlet Crusader,2,Common,Minion,3,3,1,<b>Divine Shield</b>,Never wash your whites with a Scarlet Crusader.
+Scavenging Hyena,2,Common,Minion,2,2,2,"Whenever a friendly Beast dies, gain +2/+1.","Hyenas prefer the bones of kodos or windserpents, but they'll eat pretty much anything.  Even Brussels sprouts."
+Sea Giant,2,Epic,Minion,10,8,8,Costs (1) less for each other minion on the battlefield.,See?  Giant.
+Secretkeeper,2,Rare,Minion,1,1,2,"Whenever a <b>Secret</b> is played, gain +1/+1.",She promises not to tell anyone about that thing you did last night with that one person.
+Sense Demons,2,Common,Spell,3,,,Put 2 random Demons from your deck into your hand.,Generally demons are pretty obvious and you don’t need a spell to sense them.
+Shadow Madness,2,Rare,Spell,4,,,Gain control of an enemy minion with 3 or less Attack until end of turn.,"You can rationalize it all you want, it's still a mean thing to do."
+Shadowflame,2,Rare,Spell,4,,,Destroy a friendly minion and deal its Attack damage to all enemy minions.,Start with a powerful minion and stir in Shadowflame and you have a good time!
+Shadowform,2,Epic,Spell,3,,,Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.,If a bright light shines on a priest in Shadowform… do they cast a shadow?
+Shadowstep,2,Common,Spell,0,,,Return a friendly minion to your hand. It costs (2) less.,Rogue dance troops will sometimes Shadowstep away at the end of a performance.  Crowds love it.
+Shield Slam,2,Epic,Spell,1,,,Deal 1 damage to a minion for each Armor you have.,"""What is a better weapon? The sharp one your enemies expect, or the blunt one they ignore?"" - The Art of Warrior, Chapter 9"
+Shieldbearer,2,Common,Minion,1,0,4,<b>Taunt</b>,Have you seen the size of the shields in this game??  This is no easy job.
+Silence,2,Common,Spell,0,,,<b>Silence</b> a minion.,"Reserved for enemy spellcasters, evil liches from beyond the grave, and karaoke nights at the Grim Guzzler."
+Silver Hand Knight,2,Common,Minion,5,4,4,<b>Battlecry:</b> Summon a 2/2 Squire.,It's good to be a knight.   Less so to be one's squire.
+Silvermoon Guardian,2,Common,Minion,4,3,3,<b>Divine Shield</b>,"The first time they tried to guard Silvermoon against the scourge, it didn’t go so well…"
+Siphon Soul,2,Rare,Spell,6,,,Destroy a minion. Restore #3 Health to your hero.,You probably should avoid siphoning your own soul.  You might create some kind of weird infinite loop.
+Slam,2,Common,Spell,2,,,"Deal $2 damage to a minion. If it survives, draw a card.","""Dun da dun, dun da dun"": if you've heard an ogre sing this, it's too late."
+Snake Trap,2,Epic,Spell,2,,,"<b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes.",Why did it have to be snakes?
+Snipe,2,Common,Spell,2,,,"<b>Secret:</b> When your opponent plays a minion, deal $4 damage to it.",A great sniper hits the spot.  Just like a delicious flank of boar. Mmmmm.
+Sorcerer's Apprentice,2,Common,Minion,2,3,2,Your spells cost (1) less.,"Apprentices are great for bossing around.  ""Conjure me some mana buns! And a coffee!  Make that a mana coffee!"""
+Soul of the Forest,2,Common,Spell,4,,,"Give your minions ""<b>Deathrattle:</b> Summon a 2/2 Treant.""","""Reforestation"" is suddenly a terrifying word."
+Southsea Captain,2,Epic,Minion,3,3,3,Your other Pirates have +1/+1.,"When he saves enough plunder, he's going to commission an enormous captain's hat.  He has hat envy."
+Southsea Deckhand,2,Common,Minion,1,2,1,Has <b>Charge</b> while you have a weapon equipped.,"Pirates are into this new fad called ""Planking""."
+Spellbender,2,Epic,Spell,3,,,"<b>Secret:</b> When an enemy casts a spell on a minion, summon a 1/3 as the new target.","While it's fun to intercept enemy lightning bolts, a spellbender much prefers to intercept opposing Marks of the Wild.  It just feels meaner.  And blood elves... well, they're a little mean."
+Spellbreaker,2,Common,Minion,4,4,3,<b>Battlecry:</b> <b>Silence</b> a minion.,Spellbreakers can rip enchantments from magic-wielders.  The process is painless and can be performed on an outpatient basis.
+Spiteful Smith,2,Common,Minion,5,4,6,<b>Enrage:</b> Your weapon has +2 Attack.,"She'll craft you a sword, but you'll need to bring her 5 Steel Ingots, 3 Motes of Earth, and the scalp of her last customer."
+Stampeding Kodo,2,Rare,Minion,5,3,5,<b>Battlecry:</b> Destroy a random enemy minion with 2 or less Attack.,This Kodo is so big that he can stampede by <i>himself</i>.
+Starfall,2,Rare,Spell,5,,,<b>Choose One -</b> Deal $5 damage to a minion; or $2 damage to all enemy minions.,Is the sky falling?  Yes.  Yes it is.
+Stormforged Axe,2,Common,Weapon,2,2,3,<b>Overload:</b> (1),"Yo, that's a nice axe."
+Stranglethorn Tiger,2,Common,Minion,5,5,5,<b>Stealth</b>,The wonderful thing about tigers is tigers are wonderful things!
+Summoning Portal,2,Common,Minion,4,0,4,"Your minions cost (2) less, but not less than (1).",NOT LESS THAN 1!  Don't get any ideas!
+Sunfury Protector,2,Rare,Minion,2,2,3,<b>Battlecry:</b> Give adjacent minions <b>Taunt</b>.,"She carries a shield, but only so she can give it to someone she can stand behind."
+Sunwalker,2,Rare,Minion,6,4,5,<b>Taunt</b>. <b>Divine Shield</b>,She doesn’t ACTUALLY walk on the Sun.  It's just a name.  Don’t worry!
+Sword of Justice,2,Epic,Weapon,3,1,5,"Whenever you summon a minion, give it +1/+1 and this loses 1 Durability.",I dub you Sir Loin of Beef!
+Sylvanas Windrunner,1,Legendary,Minion,6,5,5,<b>Deathrattle:</b> Take control of a random enemy minion.,"Sylvanas was turned into the Banshee Queen by Arthas, but he probably should have just killed her because it just pissed her off."
+Tauren Warrior,2,Common,Minion,3,2,3,<b>Taunt</b>. <b>Enrage:</b> +3 Attack,"Tauren Warrior: Champion of Mulgore, Slayer of Quilboar, Rider of Thunderbluff Elevators."
+Temple Enforcer,2,Common,Minion,6,6,6,<b>Battlecry:</b> Give a friendly minion +3 Health.,He also moonlights Thursday nights as a bouncer at the Pig and Whistle Tavern.
+The Beast,1,Legendary,Minion,6,9,7,<b>Deathrattle:</b> Summon a 3/3 Finkle Einhorn for your opponent.,He lives in Blackrock Mountain.  He eats Gnomes.  That's pretty much it.
+The Black Knight,1,Legendary,Minion,6,4,5,<b>Battlecry:</b> Destroy an enemy minion with <b>Taunt</b>.,He was sent by the Lich King to disrupt the Argent Tournament.   We can pretty much mark that a failure.
+Thoughtsteal,2,Common,Spell,3,,,Copy 2 cards from your opponent's deck and put them into your hand.,"""What do you get when you cast Thoughtsteal on an Orc?  Nothing!"" - Tauren joke"
+Thrallmar Farseer,2,Common,Minion,3,2,3,<b>Windfury</b>,"He's stationed in the Hellfire Peninsula, but he's hoping for a reassignment closer to Orgrimmar, or really anywhere the ground is less on fire."
+Tinkmaster Overspark,1,Legendary,Minion,3,3,3,<b>Battlecry:</b> Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.,Tinkmaster Overspark nearly lost his Tinker's license after the Great Ironforge Squirrel Stampede of '09.
+Tirion Fordring,1,Legendary,Minion,8,6,6,<b>Divine Shield</b>. <b>Taunt</b>. <b>Deathrattle:</b> Equip a 5/3 Ashbringer.,"If you haven't heard the Tirion Fordring theme song, it's because it doesn't exist."
+Twilight Drake,2,Rare,Minion,4,4,1,<b>Battlecry:</b> Gain +1 Health for each card in your hand.,Twilight drakes feed on Mystical Energy.  And Tacos.
+Twisting Nether,2,Epic,Spell,8,,,Destroy all minions.,The Twisting Nether is a formless place of magic and illusion and destroyed minions.
+Unbound Elemental,2,Common,Minion,3,2,4,"Whenever you play a card with <b>Overload</b>, gain +1/+1.","Unlike bound elementals, Unbound ones really enjoy a night on the town."
+Unleash the Hounds,2,Common,Spell,3,,,"For each enemy minion, summon a 1/1 Hound with <b>Charge</b>.",You must read the name of this card out loud each time you play it.
+Upgrade!,2,Rare,Spell,1,,,"If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon.",Easily worth 50 DKP.
+Vaporize,2,Rare,Spell,3,,,"<b>Secret:</b> When a minion attacks your hero, destroy it.",Rumor has it that Deathwing brought about the Cataclysm after losing a game to this card.  We may never know the truth.
+Venture Co. Mercenary,2,Common,Minion,5,7,6,Your minions cost (3) more.,No Job is too big.  No fee is too big.
+Violet Teacher,2,Rare,Minion,4,3,5,"Whenever you cast a spell, summon a 1/1 Violet Apprentice.","If you don't pay attention, you may be turned into a pig.  And then you get your name on the board."
+Void Terror,2,Rare,Minion,3,3,3,<b>Battlecry:</b> Destroy the minions on either side of this minion and gain their Attack and Health.,"If you put this into your deck, you WILL lose the trust of your other minions."
+Wild Pyromancer,2,Rare,Minion,2,3,2,"After you cast a spell, deal 1 damage to ALL minions.",BOOM BABY BOOM!  BAD IS GOOD!  DOWN WITH GOVERNMENT!
+Windfury Harpy,2,Common,Minion,6,4,5,<b>Windfury</b>,Harpies are not pleasant sounding.  That's the nicest I can put it.
+Wisp,2,Common,Minion,0,1,1,,"If you hit an Eredar Lord with enough Wisps, it will explode.   But why?"
+Worgen Infiltrator,2,Common,Minion,1,2,1,<b>Stealth</b>,"If you want to stop a worgen from infiltrating, just yell, ""No! Bad boy!"""
+Wrath,2,Common,Spell,2,,,<b>Choose One</b> - Deal $3 damage to a minion; or $1 damage and draw a card.,The talk around the Ratchet Inn is that this card is too good and should be a Legendary.
+Young Dragonhawk,2,Common,Minion,1,1,1,<b>Windfury</b>,They were the inspiration for the championship Taurenball team: The Dragonhawks.
+Young Priestess,2,Rare,Minion,1,2,1,"At the end of your turn, give another random friendly minion +1 Health.",She can't wait to learn Power Word: Fortitude Rank 2.
+Youthful Brewmaster,2,Common,Minion,2,3,2,<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.,His youthful enthusiasm doesn’t always equal excellence in his brews.   Don’t drink the Mogu Stout!
+Ysera,1,Legendary,Minion,9,4,12,"At the end of your turn, add a Dream Card to your hand.","Ysera rules the Emerald Dream.  Which is some kind of green-mirror-version of the real world, or something?"
+Anub'ar Ambusher,2,Common,Minion,4,5,5,<b>Deathrattle:</b> Return a random friendly minion to your hand.,"Originally he was called ""Anub'ar Guy who bounces a guy back to your hand"", but it lacked a certain zing."
+Avenge,2,Common,Spell,1,,,"<b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.","Several paladins have joined together to deliver justice under the name ""Justice Force.""  Their lawyer talked them out of calling themselves the Justice League."
+Baron Rivendare,1,Legendary,Minion,4,1,7,Your minions trigger their <b>Deathrattles</b> twice.,There used to be five Horsemen but one of them left because a job opened up in the deadmines and the benefits were better.
+Dancing Swords,2,Common,Minion,3,4,4,<b>Deathrattle:</b> Your opponent draws a card.,They like to dance to reggae.
+Dark Cultist,2,Common,Minion,3,3,4,<b>Deathrattle:</b> Give a random friendly minion +3 Health.,The Cult of the Damned has found it's best not to mention their name when recruiting new cultists.
+Death's Bite,2,Common,Weapon,4,4,2,<b>Deathrattle:</b> Deal 1 damage to all minions.,"""Take a bite outta Death."" - McScruff the Deathlord"
+Deathlord,2,Rare,Minion,3,2,8,<b>Taunt. Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield.,"""Rise from your grave!"" - Kel'Thuzad"
+Duplicate,2,Common,Spell,3,,,"<b>Secret:</b> When a friendly minion dies, put 2 copies of it into your hand.",The one time when duping cards won't get your account banned!
+Echoing Ooze,2,Epic,Minion,2,1,2,<b>Battlecry:</b> Summon an exact copy of this minion at the end of the turn.,OOZE... Ooze... Ooze... (ooze...)
+Feugen,1,Legendary,Minion,5,4,7,"<b>Deathrattle:</b> If Stalagg also died this game, summon Thaddius.",Feugen is sad because everyone likes Stalagg better.
+Haunted Creeper,2,Common,Minion,2,1,2,<b>Deathrattle:</b> Summon two 1/1 Spectral Spiders.,Arachnofauxbia: Fear of fake spiders.
+Kel'Thuzad,1,Legendary,Minion,8,6,8,"At the end of each turn, summon all friendly minions that died this turn.",Kel'Thuzad could not resist the call of the Lich King. Even when it's just a robo-call extolling the Lich King's virtues.
+Loatheb,1,Legendary,Minion,5,5,5,<b>Battlecry:</b> Enemy spells cost (5) more next turn.,Loatheb used to be a simple Bog Beast.  This is why we need stricter regulations on mining and agriculture.
+Mad Scientist,2,Common,Minion,2,2,2,<b>Deathrattle:</b> Put a <b>Secret</b> from your deck into the battlefield.,"His mother wanted him to be a mage or a warlock, but noooooooo, he had to go and be a scientist like his father."
+Maexxna,1,Legendary,Minion,6,2,8,Destroy any minion damaged by this minion.,"Maexxna gets super mad when people introduce her as ""Maxina"" or ""Maxxy""."
+Nerub'ar Weblord,2,Common,Minion,2,1,4,Minions with <b>Battlecry</b> cost (2) more.,Weblords spend all day making giant trampoline parks.
+Nerubian Egg,2,Rare,Minion,2,0,2,<b>Deathrattle:</b> Summon a 4/4 Nerubian.,Eggs are a good source of protein and Nerubians.
+Poison Seeds,2,Common,Spell,4,,,Destroy all minions and summon 2/2 Treants to replace them.,"""Poisonseed Bagel"" is the least popular bagel at McTiggin's Druidic Bagel Emporium."
+Reincarnate,2,Common,Spell,2,,,"Destroy a minion, then return it to life with full Health.","It's like birth, except you're an adult and you were just dead a second ago."
+Shade of Naxxramas,2,Epic,Minion,3,2,2,"<b>Stealth.</b> At the start of your turn, gain +1/+1.",The Shades of Naxxramas <i>hate</i> the living. They even have a slur they use to refer them: <i>Livers</i>.
+Sludge Belcher,2,Rare,Minion,5,3,5,<b>Taunt. Deathrattle:</b> Summon a 1/2 Slime with <b>Taunt</b>.,DO NOT GIVE HIM A ROOT BEER.
+Spectral Knight,2,Common,Minion,5,4,6,Can't be targeted by spells or Hero Powers.,What do Faerie Dragons and Spectral Knights have in common?  They both love pasta!
+Stalagg,1,Legendary,Minion,5,7,4,"<b>Deathrattle:</b> If Feugen also died this game, summon Thaddius.","Stalagg want to write own flavor text.  ""STALAGG AWESOME!"""
+Stoneskin Gargoyle,2,Common,Minion,3,1,4,"At the start of your turn, restore this minion to full Health.",Stoneskin Gargoyles love freeze tag.
+Undertaker,2,Common,Minion,1,1,2,"Whenever you summon a minion with <b>Deathrattle</b>, gain +1 Attack.","In a world where you can run to a spirit healer and resurrect yourself, Undertakers do pretty light business."
+Unstable Ghoul,2,Common,Minion,2,1,3,<b>Taunt</b>. <b>Deathrattle:</b> Deal 1 damage to all minions.,Filling your Ghouls with Rocket Fuel is all the rage at Necromancer school.
+Voidcaller,2,Common,Minion,4,3,4,<b>Deathrattle:</b> Put a random Demon from your hand into the battlefield.,"""Void!  Here, void!  Here, buddy!"""
+Wailing Soul,2,Rare,Minion,4,3,5,<b>Battlecry: Silence</b> your other minions.,"This soul just <i>wails</i> on you. Dang, soul, let up already."
+Webspinner,2,Common,Minion,1,1,1,<b>Deathrattle:</b> Add a random Beast card to your hand.,Spider cocoons are like little piñatas!
+Zombie Chow,2,Common,Minion,1,2,3,<b>Deathrattle:</b> Restore 5 Health to the enemy hero.,Zombie.  It's what's for dinner.
+Axe Flinger,2,Common,Minion,4,2,5,"Whenever this minion takes damage, deal 2 damage to the enemy hero.","Once a lowly ""Stick Flinger"", he's been relentless on the path to his ultimate dream: ""Tauren Flinger""."
+Blackwing Corruptor,2,Common,Minion,5,5,4,"<b>Battlecry</b>: If you're holding a Dragon, deal 3 damage.",He got his name when he gave Blackwing some comic books and rock & roll records.
+Blackwing Technician,2,Common,Minion,3,2,4,"<b>Battlecry:</b> If you're holding a Dragon, gain +1/+1.",This is who you go to when your Blackwing needs a tune up. Don't go to a cut rate Blackwing tune up shop!
+Chromaggus,1,Legendary,Minion,8,6,8,"Whenever you draw a card, put another copy into your hand.","Left head and right head can never agree about what to eat for dinner, so they always end up just eating ramen again."
+Core Rager,2,Rare,Minion,4,4,4,"<b>Battlecry:</b> If your hand is empty, gain +3/+3.",It takes a special kind of hunter to venture deep into a firey lava pit and convince a monster who lives there to come home and be a cuddly housepet.
+Dark Iron Skulker,2,Rare,Minion,5,4,3,<b>Battlecry:</b> Deal 2 damage to all undamaged enemy minions.,"He loves skulking. He skulks after hours just for the joy of it, but his friends are pretty worried he'll get burnt out."
+Demonwrath,2,Rare,Spell,3,,,Deal $2 damage to all non-Demon minions.,Demons are not angry most of the time. You have to play this card in order to really bring it out of them.
+Dragon Consort,2,Rare,Minion,5,5,5,<b>Battlecry:</b> The next Dragon you play costs (2) less.,Everybody wants someone to snuggle with. Even giant armored scaly draconic beasts of destruction.
+Dragon Egg,2,Rare,Minion,1,0,2,"Whenever this minion takes damage, summon a 2/1 Whelp.",Think of them as bullets for your dragon gun.
+Dragon's Breath,2,Common,Spell,5,,,Deal $4 damage. Costs (1) less for each minion that died this turn.,"Dragons breathe fire, sure, but did you know they can also breathe Cotton Candy?  It's harder to give them a reason to do that, though."
+Dragonkin Sorcerer,2,Common,Minion,4,3,5,"Whenever you target this minion with a spell, gain +1/+1.","Dragonkin Sorcerers be all ""I'm a wizard"" and everyone else be all ""daaaaang""."
+Drakonid Crusher,2,Common,Minion,6,6,6,"<b>Battlecry:</b> If your opponent has 15 or less Health, gain +3/+3.","Drakonids were created to have all the bad parts of a dragon in the form of a humaniod. But, like, why?"
+Druid of the Flame,2,Common,Minion,3,2,2,<b>Choose One</b> - Transform into a 5/2 minion; or a 2/5 minion.,Druids who fought too long in Northrend were easily seduced by Ragnaros; a mug of hot chocolate was generally all it took.
+Emperor Thaurissan,1,Legendary,Minion,6,5,5,"At the end of your turn, reduce the Cost of cards in your hand by (1).",His second greatest regret is summoning an evil Firelord who enslaved his entire people.
+Fireguard Destroyer,2,Common,Minion,4,3,6,<b>Battlecry:</b> Gain 1-4 Attack. <b>Overload:</b> (1),"Ragnaros interviews hundreds of Fire Elementals for the position of ""Destroyer"" but very few have what it takes."
+Flamewaker,2,Rare,Minion,3,2,4,"After you cast a spell, deal 2 damage randomly split among all enemies.","Flamewakers HATE being confused for Flamewalkers. They just wake up fire, they don’t walk on it. Walking on fire is CRAZY."
+Gang Up,2,Common,Spell,2,,,Choose a minion. Shuffle 3 copies of it into your deck.,"If you are thinking about visiting Moonbrook, you better roll deep."
+Grim Patron,2,Rare,Minion,5,3,3,"Whenever this minion survives damage, summon another Grim Patron.","If you love getting your face punched, come to the Grim Guzzler!"
+Hungry Dragon,2,Common,Minion,4,5,6,<b>Battlecry:</b> Summon a random 1-Cost minion for your opponent.,Hungry Hungry Dragon is NOT a fun game.
+Imp Gang Boss,2,Common,Minion,3,2,4,"Whenever this minion takes damage, summon a 1/1 Imp.","His imp gang likes to sneak into Stormwind to spraypaint ""Ragnaros Rulez"" on the Mage Tower."
+Lava Shock,2,Rare,Spell,2,,,Deal $2 damage. Unlock your <b>Overloaded</b> Mana Crystals.,Chocolate lava cake is shockingly delicious.
+Majordomo Executus,1,Legendary,Minion,9,9,7,"<b>Deathrattle:</b> Replace your hero with Ragnaros, the Firelord.","You thought Executus turned you into Ragnaros, but really Ragnaros was in you the whole time."
+Nefarian,1,Legendary,Minion,9,8,8,<b>Battlecry:</b> Add 2 random spells to your hand <i>(from your opponent's class)</i>.,"They call him ""Blackwing"" because he's a black dragon...... and he's got wings."
+Quick Shot,2,Common,Spell,2,,,"Deal $3 damage. If your hand is empty, draw a card.",Han shot first.
+Rend Blackhand,1,Legendary,Minion,7,8,4,"<b>Battlecry:</b> If you're holding a Dragon, destroy a <b>Legendary</b> minion.","Rend believes he is the True Warchief of the Horde and he keeps editing the wikipedia page for ""Warchief of the Horde"" to include his picture."
+Resurrect,2,Rare,Spell,2,,,Summon a random friendly minion that died this game.,"I walked into the dungeon and noticed a slain adventurer. In his final moments, he had scrawled out a message in the dust on the wall beside him. Two words: ""rez plz"""
+Revenge,2,Rare,Spell,2,,,"Deal $1 damage to all minions. If you have 12 or less Health, deal $3 damage instead.","This is better than Arcane Explosion, so I guess warriors are finally getting revenge on mages for Mortal Strike being worse than Fireball."
+Solemn Vigil,2,Common,Spell,5,,,Draw 2 cards. Costs (1) less for each minion that died this turn.,"Each year, folk gather in front of Blackrock Mountain to mourn those who were mind-controlled into the lava."
+Twilight Whelp,2,Common,Minion,1,2,1,"<b>Battlecry:</b> If you're holding a Dragon, gain +2 Health.","The twilight whelps are basically magic-vampires. Despite this, they are not a reference to any popular series of novels."
+Volcanic Drake,2,Common,Minion,6,6,4,Costs (1) less for each minion that died this turn.,Volcanic Drakes breathe lava instead of fire. The antacid vendor at Thorium Point does a brisk business with them.
+Volcanic Lumberer,2,Rare,Minion,9,7,8,<b>Taunt</b> Costs (1) less for each minion that died this turn.,"The roots, the roots, the roots is on fire!"
+Acidic Swamp Ooze,2,Common,Minion,2,3,2,<b>Battlecry:</b> Destroy your opponent's weapon.,Oozes love Flamenco.  Don't ask.
+Ancestral Healing,2,Free,Spell,0,,,Restore a minion to full Health and give it <b>Taunt</b>.,"I personally prefer some non-ancestral right-the-heck-now healing, but maybe that is just me."
+Animal Companion,2,Common,Spell,3,,,Summon a random Beast Companion.,"You could summon Misha, Leokk, or Huffer!  Huffer is more trouble than he's worth."
+Arcane Explosion,2,Free,Spell,2,,,Deal $1 damage to all enemy minions.,This spell is much better than Arcane Implosion.
+Arcane Intellect,2,Free,Spell,3,,,Draw 2 cards.,Playing this card makes you SMARTER.  And let's face it: we could all stand to be a little smarter.
+Arcane Missiles,2,Free,Spell,1,,,Deal $3 damage randomly split among all enemies.,You'd think you'd be able to control your missiles a little better since you're a powerful mage and all.
+Arcane Shot,2,Free,Spell,1,,,Deal $2 damage.,"Magi conjured arcane arrows to sell to hunters, until hunters learned just enough magic to do it themselves.  The resulting loss of jobs sent Stormwind into a minor recession."
+Arcanite Reaper,2,Common,Weapon,5,5,2,,No… actually you should fear the Reaper.
+Archmage,2,Common,Minion,6,4,7,<b>Spell Damage +1</b>,You earn the title of Archmage when you can destroy anyone who calls you on it.
+Assassin's Blade,2,Common,Weapon,5,3,4,,Guaranteed to have been owned by a real assassin.   Certificate of authenticity included.
+Assassinate,2,Free,Spell,5,,,Destroy an enemy minion.,"If you don't want to be assassinated, move to the Barrens and change your name. Good luck!"
+Backstab,2,Free,Spell,0,,,Deal $2 damage to an undamaged minion.,"It's funny how often yelling ""Look over there!"" gets your opponent to turn around."
+Blessing of Kings,2,Common,Spell,4,,,Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i>,"Given the number of kings who have been assassinated, are you sure you want their blessing?"
+Blessing of Might,2,Free,Spell,1,,,Give a minion +3 Attack.,"""As in, you MIGHT want to get out of my way."" - Toad Mackle, recently buffed."
+Bloodfen Raptor,2,Free,Minion,2,3,2,,"""Kill 30 raptors."" - Hemet Nesingwary"
+Bloodlust,2,Common,Spell,5,,,Give your minions +3 Attack this turn.,blaarghghLLGHRHARAAHAHHH!!
+Bluegill Warrior,2,Common,Minion,2,2,1,<b>Charge</b>,He just wants a hug.   A sloppy... slimy... hug.
+Booty Bay Bodyguard,2,Common,Minion,5,5,4,<b>Taunt</b>,You can hire him... until someone offers him enough gold to turn on you.
+Boulderfist Ogre,2,Free,Minion,6,6,7,,"""ME HAVE GOOD STATS FOR THE COST"""
+Charge,2,Free,Spell,3,,,Give a friendly minion +2 Attack and <b>Charge</b>.,"""Guys! Guys! Slow down!"" - some kind of non-warrior minion"
+Chillwind Yeti,2,Common,Minion,4,4,5,,"He always dreamed of coming down from the mountains and opening a noodle shop, but he never got the nerve."
+Claw,2,Free,Spell,1,,,Give your hero +2 Attack this turn and 2 Armor.,The claw decides who will stay and who will go.
+Cleave,2,Common,Spell,2,,,Deal $2 damage to two random enemy minions.,Hey you two…could you stand next to each other for a second…
+Consecration,2,Common,Spell,4,,,Deal $2 damage to all enemies.,"Consecrated ground glows with Holy energy.  But it smells a little, too."
+Core Hound,2,Common,Minion,7,9,5,,You don’t tame a Core Hound. You just train it to eat someone else before it eats you.
+Corruption,2,Common,Spell,1,,,"Choose an enemy minion. At the start of your turn, destroy it.","It starts with stealing a pen from work, and before you know it, BOOM!  Corrupted!"
+Dalaran Mage,2,Common,Minion,3,1,4,<b>Spell Damage +1</b>,You don't see a lot of Dalaran warriors.
+Darkscale Healer,2,Common,Minion,5,4,5,<b>Battlecry:</b> Restore 2 Health to all friendly characters.,Healing is just something she does in her free time.  It's more of a hobby really.
+Deadly Poison,2,Free,Spell,1,,,Give your weapon +2 Attack.,"Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells.  Poisonbolt? Rain of Poison?  Poison Elemental?  Nobody wants that."
+Divine Spirit,2,Common,Spell,2,,,Double a minion's Health.,Double the trouble. Double the fun!
+Dragonling Mechanic,2,Common,Minion,4,2,4,<b>Battlecry:</b> Summon a 2/1 Mechanical Dragonling.,She is still working on installing the rocket launcher add-on for Mr. Bitey.
+Drain Life,2,Free,Spell,3,,,Deal $2 damage. Restore #2 Health to your hero.,"""I've just sucked one year of your life away."""
+Dread Infernal,2,Common,Minion,6,6,6,<b>Battlecry:</b> Deal 1 damage to ALL other characters.,"""INFERNOOOOOOOOOO!"" - Jaraxxus, Eredar Lord of the Burning Legion"
+Elven Archer,2,Common,Minion,1,1,1,<b>Battlecry:</b> Deal 1 damage.,Don't bother asking her out on a date.  She'll shoot you down.
+Execute,2,Free,Spell,1,,,Destroy a damaged enemy minion.,"It's okay, he deserved it."
+Fan of Knives,2,Common,Spell,3,,,Deal $1 damage to all enemy minions. Draw a card.,"I wouldn't say I LOVE knives, but I'm definitely a fan."
+Fiery War Axe,2,Free,Weapon,2,3,2,,"During times of tranquility and harmony, this weapon was called by its less popular name, Chilly Peace Axe."
+Fire Elemental,2,Common,Minion,6,6,5,<b>Battlecry:</b> Deal 3 damage.,He can never take a bath. Ewww.
+Fireball,2,Free,Spell,4,,,Deal $6 damage.,"This spell is useful for burning things.  If you're looking for spells that toast things, or just warm them a little, you're in the wrong place."
+Flamestrike,2,Common,Spell,7,,,Deal $4 damage to all enemy minions.,"When the ground is on fire, you should <i>not</i> stop, drop, and roll."
+Flametongue Totem,2,Common,Minion,2,0,3,Adjacent minions have +2 Attack.,Totemsmiths like to use the rarest woods for their totems.  There are even rumors of totems made of Ironbark Protectors.
+Frost Nova,2,Common,Spell,3,,,<b>Freeze</b> all enemy minions.,"Hey man, that's cold.  Literally and metaphorically."
+Frost Shock,2,Free,Spell,1,,,Deal $1 damage to an enemy character and <b>Freeze</b> it.,FROST SHOCK!
+Frostbolt,2,Common,Spell,2,,,Deal $3 damage to a character and <b>Freeze</b> it.,"It is customary to yell ""Chill out!"" or ""Freeze!"" or ""Ice ice, baby!"" when you play this card."
+Frostwolf Grunt,2,Common,Minion,2,2,2,<b>Taunt</b>,Grunting is what his father did and his father before that.   It's more than just a job.
+Frostwolf Warlord,2,Common,Minion,5,4,4,<b>Battlecry:</b> Gain +1/+1 for each other friendly minion on the battlefield.,The Frostwolves are locked in combat with the Stormpike Expedition over control of Alterac Valley.  Every attempt at peace-talks has ended with Captain Galvangar killing the mediator.
+Gnomish Inventor,2,Common,Minion,4,2,4,<b>Battlecry:</b> Draw a card.,"She's never quite sure what she's making, she just knows it's AWESOME!"
+Goldshire Footman,2,Common,Minion,1,1,2,<b>Taunt</b>,"If 1/2 minions are all that is defending Goldshire, you would think it would have been overrun years ago."
+Grimscale Oracle,2,Common,Minion,1,1,1,ALL other Murlocs have +1 Attack.,These are the brainy murlocs.  It turns out that doesn’t mean much.
+Guardian of Kings,2,Common,Minion,7,5,6,<b>Battlecry:</b> Restore 6 Health to your hero.,Holy beings from the beyond are so cliché!
+Gurubashi Berserker,2,Common,Minion,5,2,7,"Whenever this minion takes damage, gain +3 Attack.","No Pain, No Gain."
+Hammer of Wrath,2,Free,Spell,4,,,Deal $3 damage. Draw a card.,"A good paladin has many tools.  Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc."
+Hand of Protection,2,Free,Spell,1,,,Give a minion <b>Divine Shield</b>.,"This spell has been renamed so many times, even paladins don’t know what it should be called anymore."
+Healing Touch,2,Free,Spell,3,,,Restore #8 Health.,"8 Health, no waiting."
+Hellfire,2,Free,Spell,4,,,Deal $3 damage to ALL characters.,It's spells like these that make it hard for Warlocks to get decent help.
+Heroic Strike,2,Free,Spell,2,,,Give your hero +4 Attack this turn.,"Really, if you're a hero, this is <i>every</i> strike."
+Hex,2,Free,Spell,3,,,Transform a minion into a 0/1 Frog with <b>Taunt</b>.,"If you Hex a Murloc... it really isn't much of a change, is it?"
+Holy Light,2,Free,Spell,2,,,Restore #6 Health.,"If you are often bathed in Holy Light, you should consider wearing sunscreen."
+Holy Nova,2,Common,Spell,5,,,Deal $2 damage to all enemies. Restore #2 Health to all friendly characters.,"If the Holy Light forsakes you, good luck casting this spell.  Also, you're probably a jerk."
+Holy Smite,2,Free,Spell,1,,,Deal $2 damage.,It doesn't matter how pious you are.  Everyone needs a good smiting now and again.
+Houndmaster,2,Free,Minion,4,4,3,<b>Battlecry:</b> Give a friendly Beast +2/+2 and <b>Taunt</b>.,"""Who let the dogs out?"" he asks.  It's rhetorical."
+Humility,2,Common,Spell,1,,,Change a minion's Attack to 1.,"This card makes something really damp.  Oh wait.  That's ""Humidity."""
+Hunter's Mark,2,Common,Spell,0,,,Change a minion's Health to 1.,Never play 'Hide and Go Seek' with a Hunter.
+Innervate,2,Free,Spell,0,,,Gain 2 Mana Crystals this turn only.,"Some druids still have flashbacks from strangers yelling ""Innervate me!!"" at them."
+Ironbark Protector,2,Common,Minion,8,8,8,<b>Taunt</b>,I <i>dare</i> you to attack Darnassus.
+Ironforge Rifleman,2,Common,Minion,3,2,2,<b>Battlecry:</b> Deal 1 damage.,"""Ready! Aim! Drink!"""
+Ironfur Grizzly,2,Common,Minion,3,3,3,<b>Taunt</b>,"""Bear Carcass 1/10"""
+Kill Command,2,Common,Spell,3,,,"Deal $3 damage. If you have a Beast, deal $5 damage instead.","""Kill!"", he commanded."
+Kobold Geomancer,2,Common,Minion,2,2,2,<b>Spell Damage +1</b>,"In the old days, Kobolds were the finest candle merchants in the land. Then they got pushed too far..."
+Kor'kron Elite,2,Common,Minion,4,4,3,<b>Charge</b>,The Kor'kron are the elite forces of Garrosh Hellscream. Let's just say you don't want to run into these guys while wearing a blue tabard.
+Light's Justice,2,Free,Weapon,1,1,4,,Prince Malchezaar was a collector of rare weapons. He'd animate them and have them dance for him.
+Lord of the Arena,2,Common,Minion,6,6,5,<b>Taunt</b>,"He used to be a 2100+ rated arena player, but that was years ago and nobody can get him to shut up about it."
+Magma Rager,2,Free,Minion,3,5,1,,"He likes to think he is powerful, but pretty much anyone can solo Molten Core now."
+Mark of the Wild,2,Free,Spell,2,,,Give a minion <b>Taunt</b> and +2/+2.<i> (+2 Attack/+2 Health)</i>,Not to be confused with Jim of the Wild.
+Mind Blast,2,Free,Spell,2,,,Deal $5 damage to the enemy hero.,This spell blasts you directly in the MIND.
+Mind Control,2,Common,Spell,10,,,Take control of an enemy minion.,"Nominated as ""Spell Most Likely to Make Your Opponent Punch the Wall."""
+Mind Vision,2,Common,Spell,1,,,Put a copy of a random card in your opponent's hand into your hand.,I see what you did there.
+Mirror Image,2,Common,Spell,1,,,Summon two 0/2 minions with <b>Taunt</b>.,Oh hey it's Mirror Image! !egamI rorriM s'ti yeh hO
+Moonfire,2,Common,Spell,0,,,Deal $1 damage.,"""Cast Moonfire, and never stop."" - How to Be a Druid, Chapter 5, Section 3"
+Mortal Coil,2,Common,Spell,1,,,"Deal $1 damage to a minion. If that kills it, draw a card.","If your spells look like horrifying skulls, let's be honest, you should get to draw some cards."
+Multi-Shot,2,Free,Spell,4,,,Deal $3 damage to two random enemy minions.,"You see, it's all about <i>throughput</i>."
+Murloc Raider,2,Free,Minion,1,2,1,,"Mrrraggglhlhghghlgh, mrgaaag blarrghlgaahahl mrgggg glhalhah a bghhll graggmgmg Garrosh mglhlhlh mrghlhlhl!!"
+Murloc Tidehunter,2,Common,Minion,2,2,1,<b>Battlecry:</b> Summon a 1/1 Murloc Scout.,"""Death will rise, from the tides!"""
+Nightblade,2,Free,Minion,5,4,4,<b>Battlecry: </b>Deal 3 damage to the enemy hero.,"Your face is the place you'd probably least like a dagger, and where rogues are most likely to deliver them."
+Northshire Cleric,2,Free,Minion,1,1,3,"Whenever a minion is healed, draw a card.",They help the downtrodden and distressed.  Also they sell cookies.
+Novice Engineer,2,Free,Minion,2,1,1,<b>Battlecry:</b> Draw a card.,"""Half of this class will not graduate… since they'll have been turned to chickens."" - Tinkmaster Overspark, teaching Gizmos 101."
+Oasis Snapjaw,2,Free,Minion,4,2,7,,His dreams of flying and breathing fire like his idol will never be realized.
+Ogre Magi,2,Common,Minion,4,4,4,<b>Spell Damage +1</b>,Training Ogres in the art of spellcasting is a questionable decision.
+Polymorph,2,Free,Spell,4,,,Transform a minion into a 1/1 Sheep.,"There was going to be a pun in this flavor text, but it just came out baa-d."
+Power Word: Shield,2,Free,Spell,1,,,Give a minion +2 Health. Draw a card.,"Sure the extra protection is nice, but the shield really reduces visibility."
+Raid Leader,2,Free,Minion,3,2,2,Your other minions have +1 Attack.,"""That's a 50 DKP minus!"""
+Razorfen Hunter,2,Common,Minion,3,2,3,<b>Battlecry:</b> Summon a 1/1 Boar.,Someone did mess with Tuskerr once.  ONCE.
+Reckless Rocketeer,2,Free,Minion,6,5,2,<b>Charge</b>,One Insane Rocketeer.   One Rocket full of Explosives.   Infinite Fun.
+River Crocolisk,2,Free,Minion,2,2,3,,"Edward ""Lefty"" Smith tried to make luggage out of a river crocolisk once."
+Rockbiter Weapon,2,Free,Spell,1,,,Give a friendly character +3 Attack this turn.,This would be real handy if your enemy is made of rock.
+Sacrificial Pact,2,Common,Spell,0,,,Destroy a Demon. Restore #5 Health to your hero.,This is the reason that Demons never really become friends with Warlocks.
+Sap,2,Free,Spell,2,,,Return an enemy minion to your opponent's hand.,Rogues love sappy movies.
+Savage Roar,2,Common,Spell,3,,,Give your characters +2 Attack this turn.,"What do they roar? Nobody can quite tell, but it sounds like ""Elephant Macho Breeze"".  It's probably not that, though."
+Sen'jin Shieldmasta,2,Free,Minion,4,3,5,<b>Taunt</b>,"Sen'jin Villiage is nice, if you like trolls and dust."
+Shadow Bolt,2,Free,Spell,3,,,Deal $4 damage to a minion.,It’s a Bolt.   Its made out of Shadow.   What more do you need to know!
+Shadow Word: Death,2,Common,Spell,3,,,Destroy a minion with an Attack of 5 or more.,"If you miss, it leaves a lightning-bolt-shaped scar on your target."
+Shadow Word: Pain,2,Free,Spell,2,,,Destroy a minion with 3 or less Attack.,"A step up from a spell cast by many beginning acolytes: ""Shadow Word: Annoy""."
+Shattered Sun Cleric,2,Common,Minion,3,3,2,<b>Battlecry:</b> Give a friendly minion +1/+1.,They always have a spare flask of Sunwell Energy Drink™!
+Shield Block,2,Common,Spell,3,,,Gain 5 Armor. Draw a card.,Shields were invented because Face Block is USELESS.
+Shiv,2,Common,Spell,2,,,Deal $1 damage. Draw a card.,Rogues are experts at SHIV-al-ry.
+Silverback Patriarch,2,Common,Minion,3,1,4,<b>Taunt</b>,"He likes to act like he's in charge, but the silverback matriarch actually runs things."
+Sinister Strike,2,Free,Spell,1,,,Deal $3 damage to the enemy hero.,"There's something about this strike that just feels off.  Sinister, even."
+Soulfire,2,Common,Spell,1,,,Deal $4 damage. Discard a random card.,Are you lighting a soul on fire? Or burning someone with your OWN soul? This seems like an important distinction.
+Sprint,2,Common,Spell,7,,,Draw 4 cards.,Rogues are not good joggers.
+Starfire,2,Common,Spell,6,,,Deal $5 damage. Draw a card.,Balance is important to druids.  This card is perfectly balanced.
+Starving Buzzard,2,Common,Minion,5,3,2,"Whenever you summon a Beast, draw a card.","If you feed him, he loses his whole <i>identity</i>."
+Stonetusk Boar,2,Free,Minion,1,1,1,<b>Charge</b>,This card is boaring.
+Stormpike Commando,2,Common,Minion,5,4,2,<b>Battlecry:</b> Deal 2 damage.,The Stormpike Commandos are demolition experts.  They also bake a mean cupcake.
+Stormwind Champion,2,Common,Minion,7,6,6,Your other minions have +1/+1.,"When Deathwing assaulted the capital, this soldier was the only member of his squad to survive. Now he's all bitter and stuff."
+Stormwind Knight,2,Common,Minion,4,2,5,<b>Charge</b>,"They're still embarassed about ""The Deathwing Incident""."
+Succubus,2,Free,Minion,2,4,3,<b>Battlecry:</b> Discard a random card.,Warlocks have it pretty good.
+Swipe,2,Common,Spell,4,,,Deal $4 damage to an enemy and $1 damage to all other enemies.,"When a bear rears back and extends his arms, he's about to Swipe!  ... or hug."
+Timber Wolf,2,Free,Minion,1,1,1,Your other Beasts have +1 Attack.,Other beasts totally dig hanging out with timber wolves.
+Totemic Might,2,Common,Spell,0,,,Give your Totems +2 Health.,Totem-stomping is no longer recommended.
+Tracking,2,Free,Spell,1,,,Look at the top three cards of your deck. Draw one and discard the others.,For the person who just cannot decide what card to put into a deck!
+Truesilver Champion,2,Common,Weapon,4,4,2,"Whenever your hero attacks, restore 2 Health to it.","It Slices, it Dices. You can cut a tin can with it. (But you wouldn't want to.)"
+Tundra Rhino,2,Common,Minion,5,2,5,Your Beasts have <b>Charge</b>.,Tundra rhinos are often mistaken for kodos.  Or am I mistaken?
+Vanish,2,Common,Spell,6,,,Return all minions to their owner's hand.,
+Voidwalker,2,Free,Minion,1,1,3,<b>Taunt</b>,"No relation to ""The Voidsteppers"", the popular Void-based dance troupe."
+Voodoo Doctor,2,Free,Minion,1,2,1,<b>Battlecry:</b> Restore 2 Health.,Voodoo is an oft-misunderstood art. But it <i>is</i> art.
+War Golem,2,Common,Minion,7,7,7,,"Golems are not afraid, but for some reason they still run when you cast Fear on them.  Instinct, maybe?  A desire to blend in?"
+Warsong Commander,2,Free,Minion,3,2,3,"Whenever you summon a minion with 3 or less Attack, give it <b>Charge</b>.",The Warsong clan is <i>such drama</i>. It's really not worth it to become a commander.
+Water Elemental,2,Common,Minion,4,3,6,<b>Freeze</b> any character damaged by this minion.,Don't summon a water elemental at a party.  It'll dampen the mood.
+Whirlwind,2,Common,Spell,1,,,Deal $1 damage to ALL minions.,"The way to tell seasoned warriors from novice ones: the novices yell ""wheeeee"" while whirlwinding."
+Wild Growth,2,Free,Spell,2,,,Gain an empty Mana Crystal.,"Grow your own mana crystals with this Mana Crystal Growth Kit, only 39.99!"
+Windfury,2,Free,Spell,2,,,Give a minion <b>Windfury</b>.,"Windfury is like Earthfury and Firefury, but more light and airy."
+Windspeaker,2,Common,Minion,4,3,3,<b>Battlecry:</b> Give a friendly minion <b>Windfury</b>.,Is there anything worse than a Windspeaker with halitosis?
+Wolfrider,2,Free,Minion,3,3,1,<b>Charge</b>,"Orcish raiders ride wolves because they are well adapted to harsh environments, and because they are soft and cuddly."
+Elite Tauren Chieftain,1,Legendary,Minion,5,5,5,<b>Battlecry:</b> Give both players the power to ROCK! (with a Power Chord card),"He's looking for a drummer.  The current candidates are: Novice Engineer, Sen'jin Shieldmasta', and Ragnaros the Firelord."
+Gelbin Mekkatorque,1,Legendary,Minion,6,6,6,<b>Battlecry:</b> Summon an AWESOME invention.,"He's the leader of the gnomes, and an incredible inventor.  He's getting better, too; He turns things into chickens WAY less than he used to."
+Captain's Parrot,2,Epic,Minion,2,1,1,<b>Battlecry:</b> Put a random Pirate from your deck into your hand.,Pirates and Parrots go together like Virmen and Carrots.
+Old Murk-Eye,1,Legendary,Minion,4,2,4,<b>Charge</b>. Has +1 Attack for each other Murloc on the battlefield.,"He's a legend among murlocs.  ""Mrghllghghllghg!"", they say."
+Ancestor's Call,2,Epic,Spell,4,,,Put a random minion from each player's hand into the battlefield.,"""Hey! Ancestors!"" - Ancestor's call"
+Anima Golem,2,Epic,Minion,6,9,9,"At the end of each turn, destroy this minion if it's your only one.",The Dark Animus is evil and mysterious and huge and unable to write sentences that utilize proper grammar.
+Annoy-o-Tron,2,Common,Minion,2,1,2,<b>Taunt</b> <b>Divine Shield</b>,"The inventor of the Annoy-o-Tron was immediately expelled from Tinkerschool, Tinkertown, and was eventually exiled from the Eastern Kingdoms altogether."
+Anodized Robo Cub,2,Common,Minion,2,2,2,<b>Taunt</b>. <b>Choose One -</b> +1 Attack; or +1 Health.,It's adorable! AND OH MY GOODNESS WHY IS IT EATING MY FACE
+Antique Healbot,2,Common,Minion,5,3,3,<b>Battlecry:</b> Restore 8 Health to your hero.,"They don't make 'em like they used to! (Because of explosions, mostly.)"
+Arcane Nullifier X-21,2,Rare,Minion,4,2,5,<b>Taunt</b> Can't be targeted by spells or Hero Powers.,There was some hard talk between gnome magi and engineers about inventing this mech.
+Blingtron 3000,1,Legendary,Minion,5,3,4,<b>Battlecry:</b> Equip a random weapon for each player.,PREPARE PARTY SERVOS FOR IMMEDIATE DEPLOYMENT.
+Bolvar Fordragon,1,Legendary,Minion,5,1,7,"Whenever a friendly minion dies while this is in your hand, gain +1 Attack.",Spoiler alert: Bolvar gets melted and then sits on an ice throne and everyone forgets about him.
+Bomb Lobber,2,Rare,Minion,5,3,3,<b>Battlecry:</b> Deal 4 damage to a random enemy minion.,He lobbies Orgrimmar daily on behalf of bombs.
+Bouncing Blade,2,Epic,Spell,3,,,Deal $1 damage to a random minion. Repeat until a minion dies.,Only goblins would think this was a good idea. Even they are starting to have their doubts.
+Burly Rockjaw Trogg,2,Common,Minion,4,3,5,"Whenever your opponent casts a spell, gain +2 Attack.",He's burly because he does CrossFit.
+Call Pet,2,Rare,Spell,2,,,"Draw a card. If it's a Beast, it costs (4) less.",Real hunters tame hungry crabs.
+Clockwork Giant,2,Epic,Minion,12,8,8,Costs (1) less for each card in your opponent's hand.,He and Mountain Giant don't get along.
+Clockwork Gnome,2,Common,Minion,1,2,1,<b>Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.,Clockwork gnomes are always asking what time it is.
+Cobalt Guardian,2,Rare,Minion,5,6,3,"Whenever you summon a Mech, gain <b>Divine Shield</b>.","Guardians used to be built out of Adamantium, but production got moved to Gadgetzan and Cobalt was cheap."
+Cobra Shot,2,Common,Spell,5,,,Deal $3 damage to a minion and the enemy hero.,"""Cobra Shot"" hurts way, way, way more than ""Cobra Cuddle."""
+Coghammer,2,Epic,Weapon,3,2,3,<b>Battlecry:</b> Give a random friendly minion <b>Divine Shield</b> and <b>Taunt</b>.,"So you ripped this out of a machine, carved some runes on it, stuck it on a handle, and now it's a weapon of great divine power? Seems legit."
+Cogmaster,2,Common,Minion,1,1,2,Has +2 Attack while you have a Mech.,"After a while, you don't see the cogs and sprockets. All you see is a robot, a spider tank, a deathray..."
+Cogmaster's Wrench,2,Epic,Weapon,3,1,3,Has +2 Attack while you have a Mech.,For tightening cogs and smashin' troggs!
+Crackle,2,Common,Spell,2,,,Deal $3-$6 damage. <b>Overload:</b> (1),Snap! This card! Pop!
+Crush,2,Epic,Spell,7,,,"Destroy a minion. If you have a damaged minion, this costs (4) less.","Using this card on your enemies is one of the best things in life, according to some barbarians."
+Dark Wispers,2,Epic,Spell,6,,,<b>Choose One -</b> Summon 5 Wisps; or Give a minion +5/+5 and <b>Taunt</b>.,Don't worry; we fired the person who named this card.
+Darkbomb,2,Common,Spell,2,,,Deal $3 damage.,"If you're looking to make an ""Emo"" deck, this card is perfect!"
+Demonheart,2,Epic,Spell,5,,,"Deal $5 damage to a minion.  If it's a friendly Demon, give it +5/+5 instead.",Virtually every member of the pro demon lobby is a warlock. Weird.
+Dr. Boom,1,Legendary,Minion,7,7,7,<b>Battlecry</b>: Summon two 1/1 Boom Bots. <i>WARNING: Bots may explode.</i>,MARVEL AT HIS MIGHT!
+Druid of the Fang,2,Common,Minion,5,4,4,"<b>Battlecry:</b> If you have a Beast, transform this minion into a 7/7.","The Druids of the Fang live in the Wailing Caverns. They wear cool snake shirts and tell snake jokes and say ""bro"" a lot."
+Dunemaul Shaman,2,Rare,Minion,4,5,4,"<b>Windfury, Overload: (1)</b> 50% chance to attack the wrong enemy.",He just closes his eyes and goes for it. Raarararrrarar!
+Echo of Medivh,2,Epic,Spell,4,,,Put a copy of each friendly minion into your hand.,"Medivh's echo haunts Karazhan, eternally cheating at chess and <i>Hearthstone</i>."
+Enhance-o Mechano,2,Epic,Minion,4,3,2,"<b>Battlecry:</b> Give your other minions <b>Windfury</b>, <b>Taunt</b>, or <b>Divine Shield</b>. <i>(at random)</i>",His enhancements are gluten free!
+Explosive Sheep,2,Common,Minion,2,1,1,<b>Deathrattle:</b> Deal 2 damage to all minions.,"How is this supposed to work?  Your enemies think, ""<i>Hey!</i> Cute sheep!"" and run over to cuddle it?"
+Feign Death,2,Epic,Spell,2,,,Trigger all <b>Deathrattles</b> on your minions.,"The hardest part about doing a ""Feign Death"" convincingly is learning how to make the right smell. It takes a lot of commitment."
+Fel Cannon,2,Rare,Minion,4,3,5,"At the end of your turn, deal 2 damage to a non-Mech minion.","The box says, ""New and improved, with 200% more fel!"""
+Fel Reaver,2,Epic,Minion,5,8,8,"Whenever your opponent plays a card, discard the top 3 cards of your deck.",So reaver. Much fel. Wow.
+Flame Leviathan,1,Legendary,Minion,7,7,7,"When you draw this, deal 2 damage to all characters.",Mimiron likes to take the Flame Leviathan out on some sweet joyrides.
+Flamecannon,2,Common,Spell,2,,,Deal $4 damage to a random enemy minion.,Calling something a flamecannon really doesn't do much to distinguish it from other goblin devices.
+Floating Watcher,2,Common,Minion,5,4,4,"Whenever your hero takes damage on your turn, gain +2/+2.","""Evil Eye Watcher of Doom"" was the original name, but marketing felt it was a bit too aggressive."
+Flying Machine,2,Common,Minion,3,1,4,<b>Windfury</b>,"To operate, this contraption needs a hula doll on the dashboard. Otherwise it's just a “falling machine.”"
+Foe Reaper 4000,1,Legendary,Minion,8,6,9,Also damages the minions next to whomever he attacks.,"Foe reaping is really not so different from harvest reaping, at the end of the day."
+Force-Tank MAX,2,Common,Minion,8,7,7,<b>Divine Shield</b>,"There is a factory in Tanaris for crafting force-tanks, but it only ever made two, because of cost overruns."
+Gahz'rilla,1,Legendary,Minion,7,6,9,"Whenever this minion takes damage, double its Attack.",The Sen'jin High football team is The Gahz'rillas.
+Gazlowe,1,Legendary,Minion,6,3,6,"Whenever you cast a 1-mana spell, add a random Mech to your hand.","Gazlowe was voted ""Most Likely to Explode"" in high school."
+Gilblin Stalker,2,Common,Minion,2,2,3,<b>Stealth</b>,"""Shhh, I think I hear something.""  ""Ah, it's probably nothing."" - Every Henchman"
+Glaivezooka,2,Common,Weapon,2,2,2,<b>Battlecry:</b> Give a random friendly minion +1 Attack.,For the times when a regular bazooka just isn't enough.
+Gnomeregan Infantry,2,Common,Minion,3,1,4,<b>Charge</b> <b>Taunt</b>,"The gnomes are valiant and ready to return to their irradiated, poorly ventilated homeland!"
+Gnomish Experimenter,2,Rare,Minion,3,3,2,"<b>Battlecry:</b> Draw a card. If it's a minion, transform it into a Chicken.",He's legitimately surprised every time he turns himself into a chicken.
+Goblin Auto-Barber,2,Common,Minion,2,3,2,<b>Battlecry</b>: Give your weapon +1 Attack.,This guy is excellent at adjusting your haircut and/or height.
+Goblin Blastmage,2,Rare,Minion,4,5,4,"<b>Battlecry:</b> If you have a Mech, deal 4 damage randomly split among all enemies.","If you can't find a bomb to throw, just pick up any goblin invention and throw that."
+Goblin Sapper,2,Rare,Minion,3,2,4,Has +4 Attack while your opponent has 6 or more cards in hand.,"He’s not such a binge exploder anymore. These days, he only explodes socially."
+Grove Tender,2,Rare,Minion,3,2,4,<b>Choose One -</b> Give each player a Mana Crystal; or Each player draws a card.,Likes: Hiking and the great outdoors. Dislikes: Goblin shredders and sandals. (Can’t find any that fit!).
+Hemet Nesingwary,1,Legendary,Minion,5,6,3,<b>Battlecry:</b> Destroy a Beast.,It's hard to make a living as a hunter in a world where beasts instantly reappear minutes after you kill them.
+Hobgoblin,2,Epic,Minion,3,2,3,"Whenever you play a 1-Attack minion, give it +2/+2.",Hobgoblins are meeting next week to discuss union benefits.  First on the list: dental plan.
+Illuminator,2,Rare,Minion,3,2,4,"If you control a <b>Secret</b> at the end of your turn, restore 4 health to your hero.","""LUMOS!"" is not what they yell. What do you think this is, Hogwarts?"
+Imp-losion,2,Rare,Spell,4,,,Deal $2-$4 damage to a minion. Summon a 1/1 Imp for each damage dealt.,The shrapnel is waaaaay worse than the explosion.
+Iron Juggernaut,1,Legendary,Minion,6,6,5,"<b>Battlecry:</b> Shuffle a Mine into your opponent's deck. When drawn, it explodes for 10 damage.","The Iron Juggernaut guards Orgrimmar and has just earned the ""Employee of the Month"" award!"
+Iron Sensei,2,Rare,Minion,3,2,2,"At the end of your turn, give another friendly Mech +2/+2.",Mechs like learning from him because he really speaks their language.  0110100001101001
+Jeeves,2,Rare,Minion,4,1,4,"At the end of each player's turn, that player draws until they have 3 cards.","This robot is a lean, mean, butlerin' machine."
+Junkbot,2,Epic,Minion,5,1,5,"Whenever a friendly Mech dies, gain +2/+2.",One bot's junk is another bot's AWESOME UPGRADE!
+Kezan Mystic,2,Rare,Minion,4,4,3,<b>Battlecry:</b> Take control of a random enemy <b>Secret</b>.,"They pretend to be wise and enlightened, but they mostly just hate to be left out of a secret."
+King of Beasts,2,Rare,Minion,5,2,6,<b>Taunt</b>. <b>Battlecry:</b> Gain +1 Attack for each other Beast you have.,He never sleeps.  Not even in the mighty jungle.
+Light of the Naaru,2,Rare,Spell,1,,,"Restore #3 Health. If the target is still damaged, summon a Lightwarden.","""Light it up!"" - Command given to both Lightwardens and Goblins holding Flamecannons."
+Lightbomb,2,Epic,Spell,6,,,Deal damage to each minion equal to its Attack.,This is what happens when you allow goblins to be priests.
+Lil' Exorcist,2,Rare,Minion,3,2,3,<b>Taunt</b> <b>Battlecry:</b> Gain +1/+1 for each enemy <b>Deathrattle</b> minion.,Warlocks have the town exorcist on speed dial in case they unleash the wrong demon.
+Lost Tallstrider,2,Common,Minion,4,5,4,,"The message, ""If found, please return to Mulgore,"" is tattooed on his rear."
+Madder Bomber,2,Rare,Minion,5,5,4,<b>Battlecry:</b> Deal 6 damage randomly split between all other characters.,"Dang, Bomber, calm down."
+Mal'Ganis,1,Legendary,Minion,9,9,7,Your other Demons have +2/+2. Your hero is <b>Immune</b>.,"Mal'Ganis doesn't like being betrayed, so if you discard him, watch out."
+Malorne,1,Legendary,Minion,7,9,7,<b>Deathrattle:</b> Shuffle this minion into your deck.,"When Malorne isn't mauling hordes of demons, he enjoys attending parties, though he prefers to go stag."
+Mech-Bear-Cat,2,Rare,Minion,6,7,6,"Whenever this minion takes damage, add a <b>Spare Part</b> card to your hand.",Crushes buildings with his BEAR hands.
+Mechanical Yeti,2,Common,Minion,4,4,5,<b>Deathrattle:</b> Give each player a <b>Spare Part.</b>,The yetis of Chillwind Point are a source of both inspiration and savage beatings.
+Mechwarper,2,Common,Minion,2,2,3,Your Mechs cost (1) less.,Mechs that summon mechs? What's next? Donuts that summon donuts? Mmmmm.
+Mekgineer Thermaplugg,1,Legendary,Minion,9,9,7,"Whenever an enemy minion dies, summon a Leper Gnome.","He was obsessed with explosives until he discovered knitting. Now he yells, “SWEATERS! MORE SWEATERS!”"
+Metaltooth Leaper,2,Rare,Minion,3,3,3,<b>Battlecry</b>: Give your other Mechs +2 Attack.,Don't leave them out in the rain. In Un'Goro Crater there is a whole colony of rust-tooth leapers.
+Micro Machine,2,Common,Minion,2,1,2,"At the start of each turn, gain +1 Attack.",This card is the real thing.
+Mimiron's Head,1,Legendary,Minion,5,4,5,"At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N.",Do not push the big red button!
+Mini-Mage,2,Epic,Minion,4,4,1,<b>Stealth</b> <b>Spell Damage +1</b>,He is sometimes found hiding in the treasure chest in the Gurubashi Arena.
+Mistress of Pain,2,Rare,Minion,2,1,4,"Whenever this minion deals damage, restore that much Health to your hero.",Her sister is the Mistress of Pane who sells windows and shower doors.
+Mogor the Ogre,1,Legendary,Minion,6,7,6,All minions have a 50% chance to attack the wrong enemy.,Mogor helped reopen the Dark Portal once. You know you're in trouble when you have to rely on an ogre.
+Muster for Battle,2,Rare,Spell,3,,,Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.,"""I'm bringing the guacamole!"" – One of the most successful (yet rare) Silver Hand rallying cries"
+Neptulon,1,Legendary,Minion,7,7,7,<b>Battlecry:</b> Add 4 random Murlocs to your hand. <b>Overload:</b> (3),"Neptulon is ""The Tidehunter"". He’s one of the four elemental lords. And he and Ragnaros get together and make really amazing saunas."
+Ogre Brute,2,Common,Minion,3,4,4,50% chance to attack the wrong enemy.,Ogres have really terrible short-term chocolate.
+Ogre Ninja,2,Rare,Minion,5,6,6,<b>Stealth</b> 50% chance to attack the wrong enemy.,"He didn't have the grades to get into ninja school, but his dad pulled some strings."
+Ogre Warmaul,2,Common,Weapon,3,4,2,50% chance to attack the wrong enemy.,"Simple, misguided, and incredibly dangerous. You know, like most things ogre."
+One-eyed Cheat,2,Rare,Minion,2,4,1,"Whenever you summon a Pirate, gain <b>Stealth</b>.","When pirates say there is no ""Eye"" in ""team,"" they are very literal about it."
+Piloted Shredder,2,Common,Minion,4,4,3,<b>Deathrattle:</b> Summon a random 2-Cost minion.,"Once upon a time, only goblins piloted shredders. These days, everyone from Doomsayer to Lorewalker Cho seems to ride one."
+Piloted Sky Golem,2,Epic,Minion,6,6,4,<b>Deathrattle:</b> Summon a random 4-Cost minion.,The pinnacle of goblin engineering. Includes an espresso machine and foot massager.
+Powermace,2,Rare,Weapon,3,3,2,<b>Deathrattle</b>: Give a random friendly Mech +2/+2.,"People assume that shamans control the elements, but really, they have to ask them stuff and the elements are like, ""Yeah ok, sure."""
+Puddlestomper,2,Common,Minion,2,3,2,,"He pays homage to Morgl, the great murloc oracle! (Who doesn't??)"
+Quartermaster,2,Epic,Minion,5,2,5,<b>Battlecry:</b> Give your Silver Hand Recruits +2/+2.,His specialty? Dividing things into four pieces.
+Recombobulator,2,Epic,Minion,2,3,2,<b>Battlecry:</b> Transform a friendly minion into a random minion with the same Cost.,For when you didn’t combobulate quite right the first time around.
+Recycle,2,Rare,Spell,6,,,Shuffle an enemy minion into your opponent's deck.,Druidic recycling involves putting plastics in one bin and enemy minions in another bin.
+Sabotage,2,Epic,Spell,4,,,Destroy a random enemy minion. <b>Combo</b>: And your opponent's weapon.,Rogues can't stand it. They know you planned it! They are going to set you straight!
+Salty Dog,2,Common,Minion,5,7,4,,"He's recently recovered from being a ""scurvy dog."""
+Scarlet Purifier,2,Rare,Minion,3,4,3,<b>Battlecry</b>: Deal 2 damage to all minions with <b>Deathrattle</b>.,"The Scarlet Crusade is doing market research to find out if the ""Mauve Crusade"" would be better received."
+Screwjank Clunker,2,Rare,Minion,4,2,5,<b>Battlecry</b>: Give a friendly Mech +2/+2.,"If it breaks, just kick it a couple of times while yelling ""Durn thing!"""
+Seal of Light,2,Common,Spell,2,,,Restore #4 Health to your hero and gain +2 Attack this turn.,The walrus of Light restores EIGHT Health.
+Shadowbomber,2,Epic,Minion,1,2,1,<b>Battlecry:</b> Deal 3 damage to each hero.,"Shadowbomber does her job, but she's kind of phoning it in at this point."
+Shadowboxer,2,Rare,Minion,2,2,3,"Whenever a character is healed, deal 1 damage to a random enemy.","Punching is its primary function. Also, its secondary function."
+Shielded Minibot,2,Common,Minion,2,2,2,<b>Divine Shield</b>,He chooses to believe what he is programmed to believe!
+Shieldmaiden,2,Rare,Minion,6,5,5,<b>Battlecry:</b> Gain 5 Armor.,She has three shieldbearers in her party to supply her with back ups when she gets low on durability.
+Ship's Cannon,2,Common,Minion,2,2,3,"Whenever you summon a Pirate, deal 2 damage to a random enemy.","If you hear someone yell, ""Cannonball!"" you're about to get wet. Or crushed."
+Shrinkmeister,2,Common,Minion,2,3,2,<b>Battlecry:</b> Give a minion -2 Attack this turn.,"After the debacle of the Gnomish World Enlarger, gnomes are wary of size-changing inventions."
+Siege Engine,2,Rare,Minion,5,5,5,"Whenever you gain Armor, give this minion +1 Attack.",Wintergrasp Keep's only weakness!
+Siltfin Spiritwalker,2,Epic,Minion,4,2,5,"Whenever another friendly Murloc dies, draw a card. <b>Overload</b>: (1)","The elements respond to anyone who calls them for a worthy cause, even if you call them by yelling, ""MRGHRGLGLGL!"""
+Sneed's Old Shredder,1,Legendary,Minion,8,5,7,<b>Deathrattle:</b> Summon a random legendary minion.,"When Sneed was defeated in the Deadmines, his shredder was sold at auction to an anonymous buyer. (Probably Hogger.)"
+Snowchugger,2,Common,Minion,2,2,3,<b>Freeze</b> any character damaged by this minion.,"Do the slow chant when he waddles by: ""Chug! Chug! Chug!"""
+Soot Spewer,2,Rare,Minion,3,3,3,<b>Spell Damage +1</b>,The inventor of the goblin shredder is involved in several patent disputes with the inventor of the soot spewer.
+Spider Tank,2,Common,Minion,3,3,4,,"""What if we put guns on it?"" -Fizzblitz, staring at the spider-transportation-machine"
+Steamwheedle Sniper,2,Epic,Minion,2,2,3,Your Hero Power can target minions.,Goblins seldom have the patience for sniping. Most prefer lobbing explosives.
+Stonesplinter Trogg,2,Common,Minion,2,2,3,"Whenever your opponent casts a spell, gain +1 Attack.",The only thing worse than smelling troggs is listening to their poetry.
+Target Dummy,2,Rare,Minion,0,0,2,<b>Taunt</b>,"The engineering equivalent of a ""Kick Me"" sticker."
+Tinker's Sharpsword Oil,2,Common,Spell,4,,,Give your weapon +3 Attack. <b>Combo:</b> Give a random friendly minion +3 Attack.,"""Get ready to strike oil!"" - Super-cheesy battle cry"
+Tinkertown Technician,2,Common,Minion,3,3,3,"<b>Battlecry:</b> If you have a Mech, gain +1/+1 and add a <b>Spare Part</b> to your hand.",Won't you take me to... Tinkertown?
+Toshley,1,Legendary,Minion,6,5,7,<b>Battlecry and Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.,Something about power converters.
+Trade Prince Gallywix,1,Legendary,Minion,6,5,8,"Whenever your opponent casts a spell, gain a copy of it and give them a Coin.",Gallywix believes in supply and demand. He supplies the beatings and demands you pay up!
+Tree of Life,2,Epic,Spell,9,,,Restore all characters to full Health.,Healing: It grows on trees!
+Troggzor the Earthinator,1,Legendary,Minion,7,6,6,"Whenever your opponent casts a spell, summon a Burly Rockjaw Trogg.",He keeps earthinating the countryside despite attempts to stop him.
+Unstable Portal,2,Rare,Spell,2,,,Add a random minion to your hand. It costs (3) less.,The denizens of Azeroth have no idea how much work goes into stabilizing portals.  We spend like 30% of GDP on portal upkeep.
+Upgraded Repair Bot,2,Rare,Minion,5,5,5,<b>Battlecry:</b> Give a friendly Mech +4 Health.,"It's the same as the previous generation but they slapped the word ""upgraded"" on it to sell it for double."
+Velen's Chosen,2,Common,Spell,3,,,Give a minion +2/+4 and <b>Spell Damage +1</b>.,"Velen wrote a ""Lovely Card"" for Tyrande with a picture of the Deeprun Tram that said ""I Choo-Choo-Choose you!"""
+Vitality Totem,2,Rare,Minion,2,0,3,"At the end of your turn, restore 4 Health to your hero.",You can usually find these at the totemist's market on Saturdays.
+Vol'jin,1,Legendary,Minion,5,6,2,<b>Battlecry:</b> Swap Health with another minion.,"Vol'jin is a shadow hunter, which is like a shadow priest except more voodoo."
+Warbot,2,Common,Minion,1,1,3,<b>Enrage:</b> +1 Attack.,"Mass production of warbots was halted when it was discovered that they were accidentally being produced at ""sample size."""
+Wee Spellstopper,2,Epic,Minion,4,2,5,Adjacent minions can't be targeted by spells or Hero Powers.,Bane of spellcasters and spelling bees everywhere.
+Whirling Zap-o-matic,2,Common,Minion,2,3,2,<b>Windfury</b>,"If you pay a little extra, you can get it in ""candy-apple red."""
